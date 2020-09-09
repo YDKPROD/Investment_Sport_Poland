@@ -1,0 +1,717 @@
+﻿Lp;Województwo;Powiat;Wnioskodawca;Nazwa Wnioskodawcy;Lokalizacja zadania: adres;Nazwa zadania;Dofinansowanie ogółem zł
+1;dolnośląskie;bolesławiecki;Gmina;Bolesławiec;Lipiany;Budowa boiska wielofunkcyjnego;87200
+2;dolnośląskie;bolesławiecki;Gmina;Bolesławiec;Parkoszów;Budowa boiska wielofunkcyjnego;79500
+3;dolnośląskie;bolesławiecki;Gmina;Nowogrodziec;Nowogrodziec, ul. Sienkiewicza 8;Budowa bieżni prostej 60-metrowej, skoczni w dal i rzutni do pchnięcia kulą;100000
+4;dolnośląskie;dzierżoniowski;Gmina Miejska;Dzierżoniów;Dzierżoniów, ul. Sikorskiego;Rozbudowa siłowni plenerowej i placu zabaw;261700
+5;dolnośląskie;dzierżoniowski;Gmina;Piława Górna;Piława Górna, ul. Kościuszki;Budowa hali sportowej;3200000
+6;dolnośląskie;głogowski;Gmina;Żukowice;Nielubia;Budowa boiska wielofunkcyjnego;190000
+7;dolnośląskie;górowski;Gmina;Góra;Góra, ul. Szkolna 2;"Budowa krytej pływalni ""Dolnośląski Delfinek"" wraz z kręgielnią";1289300
+8;dolnośląskie;kamiennogórski;Gmina Miejska;Lubawka;Lubawka, ul. Mickiewicza 4;Budowa sali gimnastycznej;1946500
+9;dolnośląskie;kłodzki;Gmina Miejska;Duszniki-Zdrój;Duszniki- Zdrój, ul. Olimpijska;Modernizacja obiektu biathlonu zimowego i letniego - etap II;5300000
+10;dolnośląskie;kłodzki;Gmina Miejska;Kłodzko;Kłodzko, Plac Bolesława Chrobrego 1;Modernizacja sali gimnastycznej z zapleczem;336300
+11;dolnośląskie;kłodzki;Gmina;Lewin Kłodzki;Lewin Kłodzki;Budowa bieżni prostej o dł 60 m 3-torowej, skoczni w dal i siłowni zewnętrznej - II etap;100000
+12;dolnośląskie;kłodzki;Miasto i Gmina;Międzylesie;Domaszków, ul. Międzyleska 37;Budowa budynku zaplecza przy kompleksie boisk;256400
+13;dolnośląskie;kłodzki;Gmina;Nowa Ruda;Bożków 89E;Dobudowa sali gimnastycznej do budynku szkoły - etap I;962300
+14;dolnośląskie;kłodzki;Gmina;Stronie Śląskie;Stronie Śląskie, ul. Kościelna 12;Budowa sali gimnastycznej;915200
+15;dolnośląskie;legnicki;Gmina;Legnica;Legnica, ul. Głogowska 50;Budowa modernizacja boiska wielofunkcyjnego i modernizacja sali gimnastycznej;287700
+16;dolnośląskie;lubański;Gmina;Leśna;Pobiedna, ul. Hetmańska;Budowa boiska wielofunkcyjnego;130000
+17;dolnośląskie;lubański;Gmina Miejska;Lubań;Lubań, ul. Mickiewicza 1;Budowa boiska wielofunkcyjnego, bieżni prostej o dł. 60 m, skoczni do skoku w dal oraz rzutni do pchnięcia kulą;143900
+18;dolnośląskie;lubiński;Powiat;Lubiński;Szklary Górne 51c;Budowa boiska wielofunkcyjnego;151100
+19;dolnośląskie;lubiński;Gmina;Ścinawa;Buszkowice, Dłużyce, Przychowa, Ręszów, Dziewin, Lasowice, Redlice, Sitno, Chełmek Wołowski, Jurcz, Tymowa, Dziesław;Budowa 12 placów zabaw;250000
+20;dolnośląskie;lwówecki;Gmina i Miasto;Lwówek Śląski;Płóczki Górne;Budowa boiska wielofunkcyjnego;108500
+21;dolnośląskie;lwówecki;Gmina;Mirsk;Rębiszów;Budowa boiska wielofunkcyjnego;158000
+22;dolnośląskie;m. Jelenia Góra;Miasto;Jelenia Góra;Jelenia Góra, ul. Lotnictwa 1;Budowa boiska wielofunkcyjnego;89700
+23;dolnośląskie;m. Wałbrzych;Gmina;Wałbrzych;Wałbrzych, ul. Wańkowicza 13;Budowa boiska wielofunkcyjnego, skoczni do skoku w dal oraz siłowni plenerowej;200000
+24;dolnośląskie;m. Wrocław;Klub sportowy;1 Ślęza Wrocław;Wrocław, Kłokoczycka 5;Budowa boisk piłkarskich na terenie kompleksu sportowego;680200
+25;dolnośląskie;m. Wrocław;AWF;AWF we Wrocławiu;Wrocław, ul.Mickiewicza 94-96;Modernizacja  oświetlenia i nagłośnienia obiektów sportowych;142200
+26;dolnośląskie;m. Wrocław;AWF;AWF we Wrocławiu;Wrocław, ul. Ignacego Jana Paderewskiego 35;Budowa zaplecza sanitarno-szatniowego i instalacji nagłośnienia dla boisk sportowych;1396800
+27;dolnośląskie;m. Wrocław;Gmina;Wrocław;Wrocław, ul. Stanisławowska 38-44;Budowa sali gimnastycznej, boiska wielofunkcyjnego i bieżni prostej 80-metrowej;1965800
+28;dolnośląskie;oleśnicki;Gmina;Dobroszyce;Dobrzeń, Dobrzeń 10A;Dobudowa sali gimnastycznej;1165500
+29;dolnośląskie;oleśnicki;Miasto;Oleśnica;Oleśnica;Budowa boiska wielofunkcyjnego i siłowni zewnętrznej i placu zabaw oraz budowa siłowni zewnętrznych i placów zabaw;160000
+30;dolnośląskie;oławski;Gmina Miasto;Oława;Oława, ul. Kamienna 8;Budowa boiska wielofunkcyjnego oraz placu zabaw;180000
+31;dolnośląskie;oławski;Gmina Miasto;Oława;Oława, ul. Broniewskiego 6;Modernizacja sali gimnastycznej;141100
+32;dolnośląskie;polkowicki;Gmina;Chocianów;Chocianów, ul. Wesoła 16;Budowa pływalni - Dolnośląski Delfinek;1300000
+33;dolnośląskie;polkowicki;Gmina;Gaworzyce;Gaworzyce, ul. Szkolna 211;Budowa skateparku;129400
+34;dolnośląskie;polkowicki;Gmina;Grębocice;Grębocice, ul. Szkolna;Modernizacja boiska wielofunkcyjnego i kortu tenisowego;88600
+35;dolnośląskie;strzeliński;Gmina;Borów;Borów, ul. Wrocławska 24;Modernizacja boiska wielofunkcyjnego, bieżni prostej i skoczni do skoku w dal;384100
+36;dolnośląskie;strzeliński;Gmina;Przeworno;Przeworno, ul. Kolejowa 4d;Budowa boiska piłkarskiego;221400
+37;dolnośląskie;strzeliński;Gmina;Strzelin;Strzelin, ul. Okulickiego 10;Budowa kortu tenisowego i lodowiska sezonowego;410000
+38;dolnośląskie;średzki;Gmina;Kostomłoty;Kostomłoty, ul. Wrocławska 10;Budowa boiska wielofunkcyjnego;167000
+39;dolnośląskie;średzki;Gmina;Miękinia;Lutynia;Budowa hali sportowej;1800800
+40;dolnośląskie;średzki;Gmina;Środa Śląska;Rakoszyce, ul. Wrocławska 44;Budowa boiska piłkarskiego ze sztuczną nawierzchnią;140000
+41;dolnośląskie;świdnicki;Gmina;Jaworzyna Śląska;Jaworzyna Śląska;Budowa sali gimnastycznej;3200000
+42;dolnośląskie;świdnicki;Gmina;Strzegom;Strzegom, ul. Jana Kochanowskiego;"Budowa krytej pływalni ""Dolnośląski Delfinek""";1300000
+43;dolnośląskie;świdnicki;Gmina Miasto;Świdnica;Świdnica, ul. Śląska 35a;Przebudowa kompleksu lekkoatletycznego stadionu miejskiego - etap I;1500000
+44;dolnośląskie;świdnicki;Gmina Miasto;Świdnica;Świdnica, ul. Śląska 33;Modernizacja hali lodowiska i pomieszczeń zaplecza obiektu lodowiska;2000000
+45;dolnośląskie;świdnicki;Powiat;Świdnicki;Świebodzice, ul. Skłodowskiej-Curie 9;Budowa boiska wielofunkcyjnego;113600
+46;dolnośląskie;świdnicki;Gmina;Żarów;Żarów, ul. Zamkowa;Modernizacja boiska piłkarskiego;331000
+47;dolnośląskie;trzebnicki;Gmina;Oborniki Śląskie;Oborniki Śląskie, ul. J. Poniatowskiego 22;Modernizacja hali sportowej;494800
+48;dolnośląskie;wałbrzyski;Gmina;Głuszyca;Głuszyca, ul. Kolejowa 8;Budowa krytej pływalni;2000000
+49;dolnośląskie;wałbrzyski;Gmina;Jedlina-Zdrój;Jedlina-Zdrój, ul. Kłodzka;Budowa bieżni prostej o dł. 100 m, skateparku oraz budynku zaplecza;180000
+50;dolnośląskie;wałbrzyski;Gmina;Stare Bogaczowice;Stare Bogaczowice, ul. Główna;Budowa boiska piłkarskiego o nawierzchni ze sztucznej trawy;103200
+51;dolnośląskie;wałbrzyski;Gmina Miejska;Szczawno-Zdrój;Szczawno-Zdrój, ul. Sienkiewicza 28;Modernizacja sali gimnastycznej;269900
+52;dolnośląskie;wałbrzyski;Gmina Miejska;Szczawno-Zdrój;Szczawno-Zdrój, ul. Słoneczna 1A;Budowa kompleksu lekkoatletycznego oraz boiska piłkarskiego;400000
+53;dolnośląskie;wałbrzyski;Gmina;Wałbrzych;Wałbrzych, ul. Poznańska 8;Budowa boiska wielofunkcyjnego, siłowni zewnętrznej;137300
+54;dolnośląskie;wrocławski;Gmina;Długołęka;Wilczyce;Budowa boiska wielofunkcyjnego;130000
+55;dolnośląskie;wrocławski;Gmina;Długołęka;Kiełczów, ul. Szkolna 3;Budowa hali sportowej;1137100
+56;dolnośląskie;ząbkowicki;Gmina;Ziębice;Henryków, ul. Polna 9;Przebudowa boiska wielofunkcyjnego;454600
+57;dolnośląskie;złotoryjski;Gmina;Wojcieszów;Wojcieszów, ul. S. Żeromskiego 8;Przebudowa bieżni prostej o dł. 80 m;114900
+58;kujawsko-pomorskie;aleksandrowski;Gmina;Bądkowo;Bądkowo, ul. Włocławska 13;Budowa boiska wielofunkcyjnego, bieżni prostej, skoczni do skoku w dal i rzutni do pchnięcia kulą;202200
+59;kujawsko-pomorskie;brodnicki;Gmina Miasta;Brodnica;Brodnica, ul. Królowej Jadwigi 5;Budowa kompleksu lekkoatletycznego i boiska piłkarskiego;1500000
+60;kujawsko-pomorskie;brodnicki;Gmina;Osiek;Strzygi;Budowa Sali gimnastycznej;645000
+61;kujawsko-pomorskie;brodnicki;Gmina;Osiek;Osiek 85;Budowa boiska piłkarskiego, 2 kortów tenisowych, siłowni zewnętrznej, skateparku, placu zabaw i linarium;1132100
+62;kujawsko-pomorskie;bydgoski;Powiat;Bydgoski;Karolewo 8;Przebudowa sali gimnastycznej wraz z zapleczem;243800
+63;kujawsko-pomorskie;bydgoski;Gmina;Dobrcz;Kozielec 24;Budowa sali gimnastycznej;590000
+64;kujawsko-pomorskie;bydgoski;Gmina;Osielsko;Żołędowo, ul. Bydgoska 24;Budowa boiska wielofunkcyjnego;160800
+65;kujawsko-pomorskie;chełmiński;Gmina;Stolno;Wabcz;Budowa boiska piłkarskiego;49800
+66;kujawsko-pomorskie;grudziądzki;Miasto;Grudziądz;Grudziądz, ul. Droga Mazurska 2;Budowa hali sportowej;1135800
+67;kujawsko-pomorskie;inowrocławski;Gmina;Kruszwica;Kruszwica, ul. Kujawska;Budowa kompleksu lekkoatletycznego i boiska wielofunkcyjnego;400000
+68;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz, ul. Bałtycka 59;Przebudowa boiska wielofunkcyjnego;120000
+69;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz, ul. Bora-Komorowskiego 2;Budowa hali sportowej, boiska piłkarskiego, bieżni okrężnej i prostej oraz skoczni do skoku w dal;1913000
+70;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz, ul. Staroszkolna 12;Przebudowa boiska wielofunkcyjnego;167600
+71;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz;Budowa boiska wielofunkcyjnego;79100
+72;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz, ul. Karpacka 30;Przebudowa boiska wielofunkcyjnego;106300
+73;kujawsko-pomorskie;m. Bydgoszcz;Miasto;Bydgoszcz;Bydgoszcz, ul. Gdańska 163;Przebudowa kompleksu lekkoatletycznego;867100
+74;kujawsko-pomorskie;m. Bydgoszcz;Stowarzyszenie;"Cywilno-Wojskowy Związek Sportowy ""Zawisza""";Bydgoszcz, ul. Gdańska 163;Remont strzelnic 25 m i 50 m;224000
+75;kujawsko-pomorskie;m. Bydgoszcz;Inny;Diecezja Bydgoska;Bydgoszcz, ul. Nowodworska 17;Budowa boiska wielofunkcyjnego;117000
+76;kujawsko-pomorskie;m. Toruń;Gmina Miasta;Toruń;Toruń, ul. Batorego 39b, ul. Bolta 14;Budowa 2 boisk wielofunkcyjnych;166100
+77;kujawsko-pomorskie;m. Toruń;Gmina Miasta;Toruń;"Toruń, ul. Św. Józefa 26; ul. Chrobrego 27A";Modernizacja, przebudowa krytej pływalni ZSMEiE i przebudowa budynku na salę szermierki;2351100
+78;kujawsko-pomorskie;m. Włocławek;Inny;Diecezja Włocławska;Włocławek, ul. Łęgska 26;Przebudowa boiska wielofunkcyjnego i zaplecza socjalno-sanitarnego;743400
+79;kujawsko-pomorskie;m. Włocławek;Gmina Miasto;Włocławek;Włocławek, ul. Chopina 12;Przebudowa sali gimnastycznej;1831400
+80;kujawsko-pomorskie;m. Włocławek;Gmina Miasto;Włocławek;Włocławek, ul. Leśna 1a;Budowa boiska wielofunkcyjnego;127000
+81;kujawsko-pomorskie;m. Włocławek;Gmina Miasto;Włocławek;Włocławek, ul. Żytnia 47;Budowa biezni okrężnej 4-torowej 200m, boiska do piłki ręcznej i 2 boisk do mini piłki siatkowej;353200
+82;kujawsko-pomorskie;mogileński;Miasto;Mogilno;Mogilno, ul. Sądowa 13;Budowa boiska wielofunkcyjnego;94400
+83;kujawsko-pomorskie;nakielski;Gmina;Szubin;Tur, ul. Bydgoska 28;Budowa boiska wielofunkcyjnego;105000
+84;kujawsko-pomorskie;radziejowski;Gmina;Bytoń;Morzyce;Budowa kortu tenisowego, boiska do siatkówki plażowej i skoczni do skoku w dal;100000
+85;kujawsko-pomorskie;rypiński;Gmina Miasta;Rypin;Rypin, ul. Sportowa 24;Przebudowa boiska piłkarskiego i boiska wielofunkcyjnego;1480000
+86;kujawsko-pomorskie;rypiński;Gmina Miasta;Rypin;Rypin, ul. Sportowa 41;Budowa kompleksu lekkoatletyczneo;826200
+87;kujawsko-pomorskie;świecki;Gmina;Świecie;Świecie, Al. Jana Pawła II/ 8;Budowa boiska wielofunkcyjnego, bieżni okrężnej 4-torowej 200 m, bieżni prostej, rzutni do pchnięcia kulą i skoczni do skoku w dal;254300
+88;kujawsko-pomorskie;toruński;Gmina;Chełmża;Kończewice;Budowa boiska piłkarskiego i budynku zaplecza socjalno-sanitarnego;500000
+89;kujawsko-pomorskie;toruński;Gmina Miasto;Chełmża;Chełmża, ul. Sądowa;"Modernizacja budynku zaplecza szatniowo-sanitarnego i hangarów na sprzęt pływający KS ""Włókniarz""";199700
+90;kujawsko-pomorskie;toruński;Gmina;Czernikowo;Czernikowo, ul. Szkolna 15 ;Remont sali gimnastycznej;121200
+91;kujawsko-pomorskie;toruński;Gmina;Lubicz;Grabowiec;Budowa boiska piłkarskiego, siłowni zewnętrznej i toru wrotkarskiego;91000
+92;kujawsko-pomorskie;toruński;Gmina;Łysomice;Świerczynki;Budowa sali gimnastycznej z łącznikiem;1050000
+93;kujawsko-pomorskie;toruński;Gmina;Zławieś Wielka;Przysiek, Leśna 1;Budowa sali gimnastycznej;780000
+94;kujawsko-pomorskie;włocławski;Gmina;Fabianki;Szpetal Górny;Budowa sali gimnastycznej;779300
+95;kujawsko-pomorskie;włocławski;Gmina;Fabianki;Chełmica Duża;Przebudowa, modernizacja kompleksu lekkoatletycznego i modernizacj aboiska piłkarskiego;900000
+96;kujawsko-pomorskie;włocławski;Gmina;Włocławek;Kruszyn;Rozbudowa sali gimnastycznej;719000
+97;kujawsko-pomorskie;żniński;Gmina;Barcin;Barcin, ul. Jakuba Wojciechowskiego 10;Budowa oświetlenia płyty stadionu;97100
+98;lubelskie;bialski;Gmina Miejska;Biała Podlaska;Biała Podlaska, ul. Marszałka Józefa Piłsudskiego;Przebudowa boiska piłkarskiego;1307800
+99;lubelskie;biłgorajski;Gmina;Biłgoraj;Sól 279;Budowa hali sportowej z zapleczem;2500000
+100;lubelskie;biłgorajski;Powiat;Biłgorajski;Biłgoraj, ul. Przemysłowa 23;Przebudowa kompleksu sportowego (boisko wielofunkcyjne, boisko piłkarskie, bieżnia okrężna 3-torowa 200 m, bieżnia prosta 3-torowa 100 m, skocznia do skoku w dal, rzutnia do pchnięcia kulą);470000
+101;lubelskie;biłgorajski;Gmina;Frampol;Frampol, ul. Fabryka;Przebudowa boiska piłkarskiego;373000
+102;lubelskie;biłgorajski;Gmina;Łukowa;Chmielek;Budowa boiska piłkarskiego;190000
+103;lubelskie;hrubieszowski;Gmina Miejska;Hrubieszów;"Hrubieszów, ul. Żeromskiego 29; ul. Ciesielczuka 2";Budowa boiska wielofunkcyjnego, boiska piłkarskiego i bieżni okrężnej przy ZS oraz skateparku i ścianku wspinaczkowej;500000
+104;lubelskie;krasnicki;Powiat;Kraśnicki;Kraśnik, ul. Armii Krajowej 25;Budowa bieżni okrężnej;100000
+105;lubelskie;krasnicki;Miasto;Kraśnik;"Kraśnik, ul. Żwirki i Wigury 2; ul. Oboźna 18";Budowa budynku zaplecza i oświetlenia boiska przy stadionie miejskim oraz budowa oświetlenia przy boisku;1674100
+106;lubelskie;lubartowski;Gmina;Abramów;Abramów, ul. 22 lipca 31;Budowa boiska piłkarskiego;115600
+107;lubelskie;lubelski;Gmina;Bychawa;Bychawa, ul. Szkolna 8;Modernizacja Sali gimnastycznej;164300
+108;lubelskie;lubelski;Gmina;Konopnica;Motycz;Budowa 2 boisk: wielofunkcyjnego i do piłki nożnej, siłowni zewnętrznej;307900
+109;lubelskie;lubelski;Gmina;Niemce;Jakubowice Konińskie, ul. Szkolna 69;Budowa sali gimnastycznej z zapleczem ;710000
+110;lubelskie;Lublin;Szkoła/Uczelnia;Uniwersytet Marii Curie-Skłodowskiej;Lublin, ul. Langiewicza 22a;Przebudowa Pawilonu wielofunkcyjnego Klubu Uczelnianego AZS-UMCS - etap II;2000000
+111;lubelskie;łęczyński;Powiat;Łęczyński;Łęczna, ul. Bogdanowicza 9;Modernizacja, budowa kompleksu boisk sportowych (boisko wielofunkcyjne i piłkarskie) i budowa bieżni okrężnej 4-torowej o długości 200 m i biezni prostej 4-torowej 100 m;699900
+112;lubelskie;łukowski;Gmina;Serokomla;Serokomla, ul. Warszawska 21;Budowa budynku zaplecza socjolano-sanitarnego przy boisku wielofunkcyjnym;240000
+113;lubelskie;m. Lublin;Gmina;Lublin;Lublin, ul. Przyjaźni 12;Budowa 2 boisk (piłkarskiego i wielofunkcyjnego) i bieżni prostej 4-torowej, skoczni do skoków w dal;310000
+114;lubelskie;m. Lublin;Gmina;Lublin;Lublin, ul. Smyczkowa 3;Remont krytej pływalni;860000
+115;lubelskie;m. Zamość;Miasto;Zamość;Zamość, ul. Orzeszkowej 43;Budowa boiska piłkarskiego;125000
+116;lubelskie;m. Zamość;Miasto;Zamość;Zamość, ul. Królowej Jadwigi 8;Przebudowa istniejącego budynku na potrzeby sali ćwiczeń siłowych;242000
+117;lubelskie;m.Biała Podlaska;Szkoła/Uczelnia;Państwowa Szkoła Wyższa im. Papieża Jana Pawła II;Biała Podlaska ;Modernizacja, budowa boiska piłkarskiego i budowa boiska treningowego;588000
+118;lubelskie;opolski;Gmina;Opole Lubelskie;Opole Lubelskie, ul. Kolejowa 17;Przebudowa boiska piłkarskiego;2000000
+119;lubelskie;opolski;Gmina;Poniatowa;Poniatowa, ul. Kraczewicka 31;Remont krytej pływalni;100000
+120;lubelskie;opolski;Gmina;Wilków;Wilków 66b;Budowa sali gimnastycznej z zapleczem technicznym;1600000
+121;lubelskie;parczewski;Gmina;Milanów;Milanów, ul. Szkolna, ul. Spółdzielcza;Przebudowa boiska i bieżni prostej;491300
+122;lubelskie;puławski;Gmina;Puławy;Gołąb, ul. Puławska 32;Budowa sali gimnastycznej;801200
+123;lubelskie;puławski;Miasto;Puławy;ul. Legionu Puławskiego 8;Budowa boiska piłkarskiego, 2 boisk wielofunkcyjnych, boiska do piłki plażowej, bieżni prostej 4-torowej do biegów na 100 m zakończonej skocznią w dal;685200
+124;lubelskie;puławski;Gmina;Żyrzyn;Żyrzyn, ul. Tysiąclecia;Budowa hali sportowej;2250000
+125;lubelskie;radzyński;Gmina;Borki;Stara Wieś;Przebudowa, budowa boiska piłkarskiego, budowa boiska wielofunkcyjnego, kortu tenisowego i placu zabaw;130000
+126;lubelskie;rycki;Miasto;Dęblin;Dęblin, ul. 1 Maja nr 3;Budowa boiska piłkarskiego, boiska wielofunkcyjnego, bieżni prostej 60 m, skoczni do skoku w dal ;189400
+127;lubelskie;susiec;Gmina;Susiec;Susiec, ul. Spółdzielcza 5;Przebudowa 2 boisk piłkarskich (w tym treningowego) i boiska wielofunkcyjnego ;2000000
+128;lubelskie;świdnicki;Gmina;Rybczewice;Rybczewice Drugie;Budowa sali gimnastycznej;1300000
+129;lubelskie;świdnicki;Powiat;Świdnicki;Świdnik, ul. Okulickiego 13;Budowa hali sportowej;1500000
+130;lubelskie;świdnicki;Powiat;Świdnicki;Świdnik, ul. Szkolna 1;Przebudowa 2 kortów tenisowych z przykryciem halą lekkiej konstrukcji;413900
+131;lubelskie;świdnicki;Gmina Miejska;Świdnik;Świdnik ul. Fabryczna 2-5;Przebudowa, budowa 4 kortów tenisowych i budowa zaplecza sanitarno-szatniowego;777200
+132;lubelskie;tomaszowski;Gmina;Krynice;Krynice 9;Remont Sali gimnastycznej;100000
+133;lubelskie;tomaszowski;Gmina;Tarnawatka;Tarnawatka, ul. Lubelska 62;Budowa sali gimnastycznej;3711900
+134;lubelskie;włodawski;Gmina Miejska;Włodawa;Włodawa, ul. Kopernika 3;Przebudowa 2 boisk wielofunkcyjnych, bieżni prostej 60 m, skoczni do skoków w dal;518500
+135;lubuskie;gorzowski;Miasto;Kostrzyn nad Odrą;Kostrzyn nad Odrą, ul. Wojska Polskiego 6;Remont hali sportowej;186680
+136;lubuskie;m. Zielona Góra;Województwo;Lubuskie;Zielona Góra, Drzonków - Olimpijska 20;Modernizacja, przebudowa, rozbudowa i nadbudowa obiektu jeździeckiego - przebudowa, rozbudowa i nadbudowa hali jeździeckiej;798700
+137;lubuskie;międzyrzecki;Gmina;Międzyrzecz;Głębokie;Budowa placu zabaw oraz siłowni plenerowej;100700
+138;lubuskie;międzyrzecki;Gmina;Międzyrzecz;Międzyrzecz, ul. Mieczysława Mikuły 1;Przebudowa boiska piłkarskiego;590600
+139;lubuskie;międzyrzecki;Gmina;Międzyrzecz;Międzyrzecz, ul. Mieczysława Mikuły 1;Budowa kompleksu lekkoatletycznego;1500000
+140;lubuskie;międzyrzecki;Gmina;Pszczew;Pszczew, ul. Władysława Sikorskiego 23;Budowa hali sportowej;3772400
+141;lubuskie;nowosolski;Gmina;Nowa Sól;Kiełcz;Budowa boiska wielofunkcyjnego;105100
+142;lubuskie;słubicki;Gmina;Rzepin;Rzepin;Budowa Sali gimnastycznej;495990
+143;lubuskie;strzelecko-drezdenecki;Gmina;Zwierzyn;"Górki Noteckie, ul. Cmentrna 5; Gościmiec 130";Budowa 2 boisk wielofunkcyjnych ;328650
+144;lubuskie;sulęciński;Gmina;Lubniewice;Lubniewice, os. Słowiańskie;Modernizacja, budowa boiska wielofunkcyjnego, budowa bieżni prostej, rzutni do pchnięcia kulą, skoczni do skoku w dal i wzwyż;489180
+145;lubuskie;sulęciński;Gmina;Słońsk;Słońsk, ul. Lipowa 9;Remont sali gimnastycznej z zapleczem;197600
+146;lubuskie;świebodziński;Gmina;Lubrza;Buczyna;Budowa boiska wielofunkcyjnego;113400
+147;lubuskie;świebodziński;Gmina;Skąpe;Ołobok, ul. Krośnieńska;Przebudowa boiska piłkarskiego i zaplecza socjalno-sanitarnego;166400
+148;lubuskie;świebodziński;Gmina;Świebodzin;Świebodzin, ul. Słoneczna;Budowa boiska wielofunkcyjnego;168900
+149;lubuskie;świebodziński;Powiat;Świebodziński;Świebodzin, ul. Żaków 1;Przebudowa boiska wielofunckcyjnego i 3-torowej bieżni prostej 60 m;150900
+150;lubuskie;zielonogórski;Gmina;Czerwieńsk;Czerwieńsk, pl. Rynek 25;Budowa sali gimnastycznej;728800
+151;lubuskie;zielonogórski;Gmina;Zabór;Zabór, ul. Akacjowa;Budowa budynku zaplecza szatniowo-sanitarnego;158200
+152;lubuskie;żarski;Gmina;Żary;Żary, ul. Leśna;Przebudowa boiska wielofunkcyjnego;116100
+153;lubuskie;żarski;Gmina;Żary;Żary, ul. Leśna;Budowa kompleksu lekkoatletycznego;1457000
+154;łódzkie;bełchatowski;Gmina;Bełchatów;Domiechowice, ul. Grabowska 80;Budowa boiska piłkarskiego i boiska wielofunkcyjnego, 3-torowej bieżni okrężnej o długości 200 m, skoczni do skoku w dal oraz siłowni zewnętrznej ;326800
+155;łódzkie;bełchatowski;Miasto;Bełchatów;Bełchatów;Budowa skateparku;485000
+156;łódzkie;bełchatowski;Gmina;Zelów;Zelów, ul. Kościuszki 40/42;Budowa hali sportowej;883500
+157;łódzkie;brzeziński;Miasto;Brzeziny;Brzeziny, ul. Sportowa 1;Budowa, modernizacja zaplecza sanitarno-szatniowego oraz modernizacja boiska do hokeja na trawie, treningowego boiska piłkarskiego i kortów tenisowych;228400
+158;łódzkie;kutnowski;Inny;Gminne Centrum Kultury Sportu i Rekreacji w Krośniewicach;Krośniewice, ul. Łęczycka 19a;Modernizacja hali sportowej;211700
+159;łódzkie;kutnowski;Gmina;Krzyżanów;Krzyżanów;Budowa boiska piłkarskiego, boiska wielofunkcyjnego, rzutni do pchnięcia kulą, zaplecza sanitarno-szatniowego;427200
+160;łódzkie;łaski;Gmina;Buczek;Buczek, ul. Szkolna 3;Budowa hali sportowej;800000
+161;łódzkie;łaski;Powiat;Łaski;Łask, ul. 9 Maja 28;Przebudowa, wykonanie boiska wielofunkcyjnego oraz wykonanie siłowni plenerowej;140500
+162;łódzkie;łęczycki;Gmina;Daszyna;Mazew, Daszyna;Przebudowa, budowa miniboiska piłkarskiego oraz budowa skoczni do skoku w dal, boiska do siatkówki plażowej, kortu tenisowego, placu zabaw i siłowni zewnętrznej oraz przebudowa miniboiska piłkarskiego, budowa skoczni do skoku w dal, wykonanie systemu wentylacji na Sali gimnastycznej;566200
+163;łódzkie;łęczycki;Gmina Miasto;Łęczyca;Łęczyca, ul. Szkolna 4, ul. Ozorkowskie Przedmieście 6c;Remont hali sportowej oraz Sali gimnastycznej oraz Sali gimnastycznej;303200
+164;łódzkie;łęczycki;Gmina Miasto;Łęczyca;Łęczyca, ul. Zachodnia 23;Budowa sali gimnastycznej;754800
+165;łódzkie;łowicki;Gmina;Łowicz;Wygoda;Budowa boiska piłkarskiego;129800
+166;łódzkie;łowicki;Miasto;Łowicz;Łowicz, ul. Mickiewicza 1;Budowa boiska wielofunkcyjnego;145000
+167;łódzkie;łódzki wschodni;Gmina;Andrespol;Stróża, ul. Tuszyńska;Rozbudowa skateparku;144900
+168;łódzkie;łódzki wschodni;Gmina;Andrespol;Wiśniowa Góra, ul. Tuszyńska 32;Modernizacja sali gimnastycznej;74600
+169;łódzkie;m. Łódź;Miasto;Łódź;Łódź, ul. Czajkowskiego 14;Modernizacja Sali gimnastycznej;314400
+170;łódzkie;m. Łódź;Miasto;Łódź;Łódź, ul. Śląska 168;Budowa trasy wrotkowo-rolkowo-nartorolkowej oraz siłowni zewnętrznej;179000
+171;łódzkie;m. Łódź;Miasto;Łódź;Łódź, ul. Skrzydlata 75;Budowa siłowni zewnętrznej, placu zabaw oraz trasy wrotkowo-rolkowo-nartorolkowej;324900
+172;łódzkie;m. Łódź;Miasto;Łódź;Łódź, ul. Patriotyczna 3 i Wirowa 7a;Budowa trasy wrotkowo-rolkowo-nartorolkowej;140800
+173;łódzkie;m. Skierniewice;Miasto;Skierniewice;Skierniewice;Budowa 5 siłowni zewnętrznych;161200
+174;łódzkie;opoczyński;Gmina;Białaczów;Petrykozy 1;Remont dachu sali gimnastycznej oraz zaplecza sanitarno-szatniowego;97500
+175;łódzkie;opoczyński;Gmina i Miasto;Drzewica;Domaszno, Radzice Duże;Przebudowa boiska wielofunkcyjnego oraz boiska wielofunkcyjnego;205000
+176;łódzkie;opoczyński;Gmina;Opoczno;Opoczno, ul. Armii Krajowej 2;Przebudowa i termomodernizacja budynku z przeznaczeniem na siłownię;205900
+177;łódzkie;opoczyński;Gmina;Sławno;Dąbrówka, Grążowice, Olszowiec;Budowa boisk wielofunkcyjnych;104100
+178;łódzkie;pabianicki;Miasto;Pabianice;Pabianice, ul. Zamkowa 16;Remont sal gimnastycznych;155000
+179;łódzkie;piotrkowski;Gmina;Sulejów;Łęczno 12;Budowa boiska piłkarskiego, wielofunkcyjnego oraz do siatkówki plażowej;138900
+180;łódzkie;piotrkowski;Gmina;Wola Krzysztoporska;"Wola Krzysztoporska; Krężna; Wola Rokszycka; Oprzężów; Majków Duży; Glina; Mąkolice; Borowa";Budowa 8 placów zabaw i siłowni zewnętrznych oraz boiska do siatkówki plażowej;320000
+181;łódzkie;radomszczański;Inny;Fundacja Rozwoju Karate Tradycyjnego Dojo;Stara Wieś 1;"Budowa budynku zaplecza magazynowo-technicznego w Centrum Japońskich Sportów i Sztuk Walki ""Dojo -Stara Wieś""";500000
+182;łódzkie;rawski;Gmina;Cielądz;Sierzchowy;Budowa boiska wielofunkcyjnego;110000
+183;łódzkie;sieradzki;Gmina;Brąszewice;Brąszewice, ul. Sieradzka 98;Budowa boiska wielofunkcyjnego;109000
+184;łódzkie;sieradzki;Gmina;Brzeźnio;Brzeźnio, ul. Szkolna 2;Modernizacja, budowa, remont boiska piłkarskiego, budowa kontenerowego zaplecza sanitarno-szatniowego oraz remont Sali gimnastycznej;175200
+185;łódzkie;sieradzki;Gmina Miasto;Sieradz;Sieradz, ul. Szlachecka 11;Budowa sali gimanstycznej;358000
+186;łódzkie;sieradzki;Gmina Miasto;Sieradz;Sieradz, ul. Sportowa 1;Modernizacja stadionu lekkoatletycznego - kat. IVA;2500000
+187;łódzkie;sieradzki;Gmina;Wróblew;Charłupia Wielka;Budowa sali gimnastycznej;624000
+188;łódzkie;skierniewicki;Gmina;Godzianów;Godzianów;Budowa oświetlenia stadionu;152000
+189;łódzkie;tomaszowski;COS;COS OPO w Spale;Spała, Al.. Ignacego Mościckiego 6;Budowa hali sportowej do gier plażowych;6146300
+190;łódzkie;tomaszowski;COS;COS OPO w Spale;Spała, ul. Mościckiego 6;Zakup wyposażenia obiektów sportowych;83000
+191;łódzkie;tomaszowski;Gmina Miasto;Tomaszów Mazowiecki;Tomaszów Mazowiecki, ul. Strzelecka 24/26;Budowa hali dla toru do łyżwiarstwa szybkiego ;19046800
+192;łódzkie;wieluński;Gmina;Wieluń;Gaszyn, ul. Harcerska 1;Budowa boisk do piłki ręcznej, koszykówki i siatkówki;135000
+193;łódzkie;wieluński;Powiat;Wieluński;Wieluń, Piłsudskiego 6;Budowa boiska piłkarskiego i wielofunkcyjnego;220000
+194;łódzkie;wieluński;Powiat;Wieluński;Gromadzice ;Budowa sali gimnastycznej;484800
+195;łódzkie;wieruszowski;Gmina;Wieruszów;Wieruszów;Remont sali gimnastycznej wraz z zapleczem;401600
+196;łódzkie;zduńskowolski;Miasto;Zduńska Wola;Zduńska Wola, ul. Spacerowa 60;Budowa boiska wielofunkcyjnego;140000
+197;łódzkie;zduńskowolski;Miasto;Zduńska Wola;Zduńska Wola, ul. Złota 67;Budowa boiska wielofunkcyjnego;150000
+198;łódzkie;zduńskowolski;Powiat;Zduńskowolski;Zduńska Wola, ul. Łaska 61;Modernizacja boiska wielofunkcyjnego i piłkarskiego, bieżni okreżnej 330 m i prostej oraz skoczni do skoku w dal;442700
+199;łódzkie;zgierski;Gmina Miasto;Ozorków;Ozorków, ul. Łęczycka 1, ul. Średnia 30-38, ul. Cegielniana 25-27;Modernizacja, budowa boiska wielofunkcyjnego przy SP nr 4, boiska piłkarskiego na stadionie oraz budowa oświetlenia i monitoringu boiska piłkarskiego przy SP nr 5;395100
+200;łódzkie;zgierski;Gmina;Stryków;Koźle;Budowa sali gimnastycznej;502900
+201;łódzkie;zgierski;Gmina Miasto;Zgierz;Zgierz, ul. Piłsudskiego 1;Budowa boiska wielofunkcyjnego;89200
+202;łódzkie;zgierski;Gmina;Zgierz;Gieczno, ul. Szkolna 2;Remont sali gimnastycznej;178000
+203;łódzkie;zgierski;Gmina;Zgierz;Słowik, ul. Gdańska 42;Budowa boiska wielofunkcyjnego;136300
+204;małopolskie;bocheński;Powiat;Bocheński;Bochnia, ul. Windakiewicza 23;Przebudowa boiska wielofunkcyjnego;106800
+205;małopolskie;bocheński;Gmina;Rzezawa;Rzezawa, ul. Wiśniowa 68;Przebudowa boiska piłkarskiego na boisko piłkarskie i boisko wielofunkcyjne;614100
+206;małopolskie;bocheński;Gmina;Rzezawa;Jodłówka;Budowa, remont budowa Sali gimnastycznej oraz remont boiska wielofunkcyjnego;1985300
+207;małopolskie;bocheński;Gmina;Rzezawa;Borek;Budowa boiska wielofunkcyjnego, kortu tenisowego i siłowni zewnętrznej;372700
+208;małopolskie;chrzanowski;Powiat;Chrzanowski;Libiąż, ul. Górnicza 3;Remont hali sportowej;854700
+209;małopolskie;chrzanowski;Gmina;Trzebinia;Myślachowice, ul. Trzebińska 15;Budowa sali gimnastycznej;877800
+210;małopolskie;gorlicki;Gmina;Bobowa;Bobowa;Budowa, przebudowa 6 siłowni zewnętrznych oraz przebudowa boiska wielofunkcyjnego w Jankowej;385800
+211;małopolskie;gorlicki;Miasto;Gorlice;Gorlice, ul. Dukielska, Plac Dworzysko, ul. Wyszyńskiego, ul. Kościuszki, ul. Parkowa, ul. Tuwima;Budowa siłowni terenowej i ścianki wspinaczkowej, placu zabaw i siłowni terenowej, placu zabaw, 3 siłowni terenowych, siłowni terenowej i urządzeń do tzw. Street Workout;134000
+212;małopolskie;limanowski;Gmina;Laskowa;Jaworzna, Krosna;Budowa 2 boisk wielofunkcyjnych;589600
+213;małopolskie;limanowski;Gmina;Limanowa;"Siekierczyna i Wysokie; dz.ew.nr 933/1, 933/4 obr.geod. 120707_20016 i dz.ew.nr 44/1, 43/9, 43/7 obr.geod 120707_20021";Budowa 2 boisk wielofunkcyjnych;300000
+214;małopolskie;limanowski;Powiat;Limanowski;Limanowa, ul. Zygmunta Augusta 8;Budowa hali sportowej;1092000
+215;małopolskie;limanowski;Gmina;Łukowica;Łukowica 285;Budowa sali gimnastycznej;1650000
+216;małopolskie;limanowski;Gmina;Słopnice;Słopnice;Modernizacja boiska piłkarskiego;545800
+217;małopolskie;m. Kraków;Gmina Miejska;Kraków;Kraków, ul. Reymonta 18;Budowa sali gimnastycznej;1675000
+218;małopolskie;m. Kraków;Gmina Miejska;Kraków;Kraków, ul. Skarbińskiego 5;Budowa sali gimnastycznej;1880900
+219;małopolskie;m. Kraków;Gmina Miejska;Kraków;Kraków, ul. Doktora Judyma 10;Budowa 2 boisk wielofunkcyjnych i bieżni prostej;142400
+220;małopolskie;m. Nowy Sącz;Miasto;Nowy Sącz;Nowy Sącz, ul. Bora-komorowskiego, ul. Piramowicza, ul. Towarowa, ul. Korzenioweskiego, ul. Lenartowicza;Budowa i modernizacja 4 boisk wielofunkcyjnych i modernizacja bieżni lekkoatletycznej;239200
+221;małopolskie;m. Nowy Sącz;Miasto;Nowy Sącz;Nowy Sącz, ul. Długosza;Budowa boiska wielofunkcyjnego;84400
+222;małopolskie;m. Tarnów;Gmina Miasta;Tarnów;Tarnów, ul. Piłsudskiego 32;Przebudowa boiska piłkarskiego, bieżni okrężnej 6-torowej 400 m wraz z urządzeniami do konkurencji technicznych dla lekkiej atletyki (obiekt certyfikowany) ;1000000
+223;małopolskie;m. Tarnów;Gmina Miasta;Tarnów;Tarnów, ul. Krzyska 118;Budowa boiska wielofunkcyjnego, bieżni prostej i siłowni;111500
+224;małopolskie;miechowski;Gmina;Kozłów;Kozłów;Budowa sali gimnastycznej;1987800
+225;małopolskie;miechowski;Gmina;Słaboszów;Słaboszów;Modernizacja boiska piłkarskiego;281600
+226;małopolskie;myślenicki;Gmina;Lubień;Lubień 885, Tenczyn 171;Remont boiska wielofunkcyjnego przy Gimnazjum w Miejscowości Lubień oraz boiska wielofuncyjnego przy Gimnazjum i SP w Tenczynie;244000
+227;małopolskie;myślenicki;Gmina;Sułkowice;Rudnik, ul. Szkolna;Budowa Sali gimnastycznej;2016000
+228;małopolskie;nowosądecki;Gmina;Grybów;Biała Niżna;Budowa zadaszonego lodowiska;1296000
+229;małopolskie;nowosądecki;Gmina;Grybów;Wawrzka;Budowa sali gimnastycznej;450000
+230;małopolskie;nowosądecki;Gmina;Grybów;Ptaszkowa, Krużlowa Wyżna, Wyskitna;Budowa boiska piłkarskiego przy ZS-P w Ptaszkowej oraz budowa 2 boisk wielofunkcyjnych w Krużlowej Wyżnej i Wyskitnej;838600
+231;małopolskie;nowosądecki;Gmina;Kamionka Wielka;Mszalnica;Budowa sali gimnastycznej;640700
+232;małopolskie;nowosądecki;Gmina;Korzenna;Korzenna, Mogilno, Siedlce, Wojnarowa;Modernizacja, rozbudowa i przebudowa 4 boisk piłkarskich oraz rozbudowa i przebudowa budynku zaplecza szatniowo-sanitarnego w Wojnarowej;588300
+233;małopolskie;nowosądecki;Gmina;Korzenna;Korzenna, Mogilno;Remont bieżnie prostej i 2 sal gimnastycznych ;495800
+234;małopolskie;nowosądecki;Gmina;Łącko;Zabrzeż;Budowa sali gimnastycznej;708400
+235;małopolskie;nowosądecki;Miasto i Gmina Uzdrowiskowa;Muszyna;Muszyna, ul. Rynek 13;Remont boiska wielofunkcyjnego;270000
+236;małopolskie;nowosądecki;Powiat;Nowosądecki;Grybów, ul. Kościuszki 18;Budowa sali gimnastycznej;1914800
+237;małopolskie;nowosądecki;Gmina;Podegrodzie;Długołęka-Świerkla;Budowa sali gimnastycznej;1125000
+238;małopolskie;nowosądecki;Gmina;Stary Sącz;Mostki;Budowa boiska piłkarskiego;202200
+239;małopolskie;nowosądecki;Gmina;Stary Sącz;Barcice;Modernizacja, budowa boiska piłkarskiego i budowa budynku zaplecza sanitarno-szatniowego dla LKS Barciczanka;1126200
+240;małopolskie;nowotarski;Gmina;Jabłonka;Chyżne;Budowa boiska wielofunkcyjnego;198800
+241;małopolskie;nowotarski;Gmina;Łapsze Niżne;"Łapsze Niżne, ul. Długa 12; Frydman, ul. Szkolna 4";Budowa 2 boisk wielofunkcyjnych;200000
+242;małopolskie;nowotarski;Powiat;Nowotarski;Rabka-Zdrój, ul. Kościuszki 9;Budowa sali gimnastycznej;1872900
+243;małopolskie;nowotarski;Gmina;Szaflary;Bańska Niżna, ul. Papieska 141;Przebudowa, budowa boiska wielofunkcyjnego oraz budowa boiska do siatkówki;170000
+244;małopolskie;olkuski;Gmina;Bukowno;Bukowno, ul. Spacerowa 1;Remont basenu odkrytego;796000
+245;małopolskie;olkuski;Gmina;Bukowno;Bukowno, Ks. Zelka;Modernizacja kortów tenisowych;81300
+246;małopolskie;olkuski;Gmina;Olkusz;Olkusz, ul. kpt. Hardego 11a;Budowa boiska piłkarskiego, boiska wielofunkcyjnego i bieżni prostej;505000
+247;małopolskie;olkuski;Gmina;Wolbrom;Wolbrom, ul. Mariacka 28;Budowa hali sportowej;2384300
+248;małopolskie;oświęcimski;Klub sportowy;Ludowy Klub Sportowy Przecieszyn;Przecieszyn, ul. Wyzwolenia 56;Przebudowa kortu tenisowego na boisko wielofunkcyjne;102000
+249;małopolskie;oświęcimski;Miasto;Oświęcim;Oświęcim, ul. Słowackiego 41;Budowa hali sportowej, boiska wielofunkcyjnego i skoczni w dal  ;2500000
+250;małopolskie;oświęcimski;Powiat;Oświęcimski;Oświęcim, ul. Obozowa 39;Budowa boiska wielofunkcyjnego;181900
+251;małopolskie;proszowicki;Gmina;Koniusza;Niegardów;Budowa sali gimnastycznej;1215000
+252;małopolskie;suski;Gmina;Stryszawa;Stryszawa 278b;Budowa hali sportowej;1900200
+253;małopolskie;tarnowski;Gmina;Ciężkowice;Kąśna Dolna;Budowa boiska wielofunkcyjnego;198000
+254;małopolskie;tarnowski;Gmina;Pleśna;Rzuchowa 278;Budowa boiska wielofunkcyjnego;156000
+255;małopolskie;tatrzański;COS;COS OPO w Zakopanem;Zakopane, ul. Bronisława Czecha 1;Rozbudowa skoczni narciarskiej Wielka Krokiew wraz z infrastrukturą towarzyszącą;3361800
+256;małopolskie;tatrzański;COS;COS OPO w Zakopanem;Zakopane, ul. Bronisława Czecha 1;Rozbudowa skoczni narciarskiej Wielka Krokiew - II etap;6112900
+257;małopolskie;tatrzański;COS;COS OPO w Zakopanem;Zakopane, ul. Bronisława Czecha 1;Zakup środków trwałych - wyposażenia do nowej siłowni w hali sportowej oraz do istniejącej siłowni sportowej;400000
+258;małopolskie;wadowicki;Gmina;Kalwaria Zebrzydowska;Stanisław Dolny;Budowa hali sportowej;905000
+259;małopolskie;wadowicki;Gmina;Wadowice;Jaroszowice;Budowa sali gimnastycznej;837000
+260;mazowieckie;białobrzeski;Gmina;Białobrzegi;Białobrzegi, ul. Rzemieślnicza 21/31;Budowa hali sportowej;1910600
+261;mazowieckie;białobrzeski;Gmina;Promna;Przybyszew;Budowa sali gimnastycznej;700000
+262;mazowieckie;białobrzeski;Gmina;Stara Błotnica;Stare Siekluki;Budowa sali gimnastycznej;1653000
+263;mazowieckie;ciechanowski;Gmina Miejska;Ciechanów;Ciechanów, ul. 17 stycznia 17;Przebudowa, budowa boiska piłkarskiego, 2 boisk wielofunkcyjnych, 4-torowej biezni okrężnej o długści 200 m oraz budowa siłowni zewnętrznej i placu zabaw;323700
+264;mazowieckie;ciechanowski;Gmina Miejska;Ciechanów;Ciechanów, ul. 3 maja 7;Przebudowa kompleksu lekkoatletycznego;1500000
+265;mazowieckie;ciechanowski;Gmina;Glinojeck;Glinojeck, ul. Parkowa 22;Przebudowa, modernizacja kortu tenisowego oraz modernizacja boiska piłkarskiego;194900
+266;mazowieckie;garwoliński;Inny;Centrum Sportu i Kultury w Garwolinie;Garwolin, ul. Sportowa 34;Budowa zaplecza sanitarno-szatniowego;1213600
+267;mazowieckie;garwoliński;Powiat;Garwoliński;Garwolin, ul. II Armii Wojska Polskiego;Remont, budowa boiska wielofunkcyjnego i budowa siłowni zewnętrznej;100000
+268;mazowieckie;garwoliński;Powiat;Garwoliński;Żelechów, ul. Szkolna 3;Budowa kompleksu lekkoatletycznego;124700
+269;mazowieckie;garwoliński;Miasto i Gmina;Pilawa;Pilawa;Budowa, przebudowa skateparku, boiska do siatkówki plażowej, skoczni do skoku w dal i placu zabaw przy PSP i PG w Pilawie oraz przebudowa placu zabaw przy ul. Letniskowej;257000
+270;mazowieckie;grodziski;Gmina;Żabia Wola;Ojrzanów, ul. Szkolna 1;Budowa hali sportowej;1940000
+271;mazowieckie;grójecki;Gmina;Belsk Duży;Belsk Duży, ul. Szkolna 3;Budowa hali sportowej;2300000
+272;mazowieckie;kozienicki;Gmina;Głowaczów;Brzóza, al. Lipowa;Budowa sali gimnastycznej;1100000
+273;mazowieckie;kozienicki;Gmina;Kozienice;Wólka Tyrzyńska;Budowa boiska piłkarskiego i wielofunkcyjnego;77300
+274;mazowieckie;legionowski;Miasto i Gmina;Serock;Gąsiorowo, ul.Grunwaldzka;Modernizacja  boiska wielofunkcyjnego;274800
+275;mazowieckie;lipski;Gmina;Ciepielów;Ciepielów, ul. Lekarska 1;Budowa sali gimnastycznej;1262800
+276;mazowieckie;lipski;Miasto i Gmina;Lipsko;Lipsko, ul. Solecka 113;Remont dwóch boisk piłkarskich na stadionie;233900
+277;mazowieckie;m. Radom;Inny;Miejski Ośrodek Sportu i Rekreacji w Radomiu Sp. z o.o.;Radom, ul. Narutowicza 9;Termomodernizacja budynku hali sportowej;1146500
+278;mazowieckie;m. Radom;Gmina Miasta;Radom;Radom, ul. Wośnicka 125;Budowa boiska wielofunkcyjnego;142000
+279;mazowieckie;m. Radom;Gmina Miasta;Radom;Radom, ul. Sienkiewicza 30;Budowa boiska wielofunkcyjnego i skoczni do skoku w dal;115000
+280;mazowieckie;m. Radom;Gmina Miasta;Radom;Radom, ul. Batalionów Chłopskich 16;Budowa boiska wielofunkcyjnego i skoczni do skoku w dal;87900
+281;mazowieckie;m. Siedlce;Miasto;Siedlce;Siedlce, ul. Graniczna 1;Modernizacja sali gimnastycznej;200000
+282;mazowieckie;m. st. Warszawa;Inny;Instytut Sportu;Warszawa, ul. Trylogii 2/16;Zakup układu GC/MS/C/IRMS dla Zakładu Badań Antydopingowych;890000
+283;mazowieckie;m. st. Warszawa;Inny;Instytut Sportu;Warszawa, ul. Trylogii 2/16;Przebudowa części noclegowej budynku IS PIB;841500
+284;mazowieckie;m. st. Warszawa;Inny;Instytut Sportu;Warszawa, ul. Trylogii 2/16;Utworzenie pracowni dietetyki i zakup densytometru dla Zakładu Fizjologii Żywienia Instytutu Sportu PIB;420750
+285;mazowieckie;m. st. Warszawa;Inny;Instytut Sportu;Warszawa, ul. Trylogii 2/16;Zakup układu analitycznego GC-MS/MS - II etap;1250000
+286;mazowieckie;m. st. Warszawa;Inny;Instytut Sportu;Warszawa, ul. Trylogii 2/16;Utworzenie Laboratorium nawierzchni sportowych i rekreacyjnych;594000
+287;mazowieckie;m. st. Warszawa;Miasto;st. Warszawa/ Ursynów;Warszawa, ul. Sarabandy 16/22;Budowa sali gimnastycznej;498800
+288;mazowieckie;m.st. Warszawa;COS;COS Warszawa;Warszawa, ul. Łazienkowska;Remont szatni i pomieszczeń sanitarnych w hali Torwar II - etap II;916000
+289;mazowieckie;m.st.Warszawa;AWF;AWF J. Piłsudskiego w Warszawie;Warszawa, ul. Marymoncka 34;Modernizacja hali lekkoatletycznej im. J. Kusocińskiego;7900000
+290;mazowieckie;makowski;Gmina;Krasnosielc;Drążdżewo 62;Budowa boiska wielofunkcyjnego i siłowni plenerowej;250000
+291;mazowieckie;miński;Gmina;Jakubów;Mistów, ul. Szkolna 3;Budowa hali sportowej;1380700
+292;mazowieckie;miński;Powiat;Miński;Mińsk Mazowiecki, Budowlana 1;Budowa hali sportowej;1740100
+293;mazowieckie;miński;Gmina;Stanisławów;Pustelnik, ul. Szkolna 16;Budowa hali sportowej;1669600
+294;mazowieckie;nowodworski;Gmina;Czosnów;Kazuń Polski;Budowa sali gimnastycznej;540900
+295;mazowieckie;ostrołęcki;Gmina;Goworowo;"Kunin 22a; Pasieki, ul. Szkolna 2";Budowa 2 boisk wielofunkcyjnych;555100
+296;mazowieckie;ostrołęcki;Gmina;Lelis;Białobiel, ul. Szkolna 1;Budowa sali gimnastycznej;1044000
+297;mazowieckie;ostrołęcki;Gmina;Łyse;Lipniki, ul. Ks. Kan. E. Sierbińskiego 30;Budowa sali gimnastycznej;605000
+298;mazowieckie;ostrołęcki;Gmina;Rzekuń;Borawe;Budowa boiska wielofunkcyjnego;94800
+299;mazowieckie;ostrołęcki;Gmina;Rzekuń;Ołdaki;Przebudowa boiska wielofunkcyjnego;219800
+300;mazowieckie;otwocki;Miasto;Józefów;Józefów, ul. Mickiewicza 11;Przebudowa, budowa boiska wielofunkcyjnego oraz budowa boiska do siatkówki i zeskoczni do skoku w dal;234200
+301;mazowieckie;otwocki;Gmina;Kołbiel;Kołbiel;Budowa boiska piłkarskiego oraz 6-torowej bieżni okrężnej o długości 400m, skoczni do skoku wzwyż i rzutni do pchnięcia kulą;1031000
+302;mazowieckie;otwocki;Miasto;Otwock;Otwock, ul. Karczewska 14/16, ul. Słowackiego 66;Budowa boisk do koszykówki i do siatkówki, siłowni zewnętrznej i placu rekreacyjnego dla dziecie przy SP nr 1 oraz 2-torowej bieżni okrężnej o długości 175 m przy SP nr 5;230700
+303;mazowieckie;otwocki;Gmina;Wiązowna;Malcanów, ul. Mazowiecka 55;Budowa hali sportowej;1013000
+304;mazowieckie;piaseczyński;Powiat;Piaseczyński;"Piaseczno, ul. Chyliczkowska 20; Góra Kalwaria, ul. Budowlanych 14; Konstancin-Jeziorna, ul. Mirkowska 39";Przebudowa, wymiana boiska wielofunkcyjnego przy ul. Chyliczkowskiej w Piasecznie oraz boiska wielofunkcyjnego przy ZSZ w Górze Kalwarii i wymiana ogrodzenia boiska piłkarskiego przy ZS w Konstancinie-Jeziornie;196400
+305;mazowieckie;piaseczyński;Gmina;Tarczyn;"Tarczyn, ul. Dolna; Drozdy; Prace Małe, ul. Piaseczyńska 34";Budowa boiska wielofunkcyjnego i skateparku oraz sali gimnastycznej;805400
+306;mazowieckie;płocki;Gmina;Mała Wieś;Mała Wieś;Modernizacja boiska piłkarskiego, boiska treningowego i boiska do siatkówki plażowej;267900
+307;mazowieckie;płocki;Gmina Miasto;Płock;Płock, ul. Teligi;Budowa boiska wielofunkcyjnego oraz placu zabaw;214400
+308;mazowieckie;pruszkowski;Gmina;Brwinów;Brwinów, ul. Grodziska 2;Budowa placu zabaw i siłowni zewnętrznej;100000
+309;mazowieckie;pruszkowski;Gmina;Michałowice;"Michałowice, ul. Szkolna 15; Granica, ul. Rekreacyjna/Poprzeczna";"Renowacja; Budowa nawierzchni boiska piłkarskiego i bieżni okrężnej przy Szkole Podstawowej w Michałowicach oraz budowa boiska piłkarskiego w Granicy";878700
+310;mazowieckie;pruszkowski;Gmina;Nadarzyn;Parole;Budowa boiska piłkarskiego, placu zabaw i siłowni zewnetrznej;100000
+311;mazowieckie;pruszkowski;Gmina;Raszyn;Dawidy Bankowe, ul. Długa 49;Budowa, przebudowa hali sportowej wraz z remontem sali gimnastycznej oraz przebudowa boiska piłkarskiego;1801200
+312;mazowieckie;pruszkowski;Gmina;Raszyn;Raszyn, ul. Sportowa 30;Budowa wielofunkcyjnej hali sportowej z halą do podnoszenia ciężarów;7000000
+313;mazowieckie;przasnyski;Gmina;Krasne;Krasne, ul. Komisji Edukacji Narodowej 1;Budowa hali sportowej;2740900
+314;mazowieckie;przysuski;Gmina;Borkowice;"Wymysłów, ul. Główna 26; Borkowice, ul. Ks. Jana Wiśniewskiego 8";Budowa mini boiska piłkarskiego i siłowni zewnętrznej oraz budowa placu zabaw i siłowni zewnętrznej;150000
+315;mazowieckie;pułtuski;Gmina;Pułtusk;Pułtusk, Al. Tysiąclecia 14;Budowa sali gimnastycznej;670000
+316;mazowieckie;radomski;Gmina;Jedlnia-Letnisko;Słupica 64;Budowa sali gimnastycznej;490000
+317;mazowieckie;radomski;Gmina Miasto;Pionki;Pionki, ul. Sportowa 1;Modernizacja kompleksu lekkoatletycznego oraz boiska piłkarskiego;1370000
+318;mazowieckie;radomski;Gmina Miasta;Radom;Radom, ul. Traugutta 52a;Budowa boiska wielofunkcyjnego, boiska do siatkówki plażowej oraz 3-torowej bieżni prostej o dł. 60 m;181000
+319;mazowieckie;radomski;Powiat;Radomski;Iłża, ul. Błazińska 5;Budowa boiska wielofunkcyjnego;162300
+320;mazowieckie;siedlecki;Inny;Agencja Rozwoju Miasta Siedlce Sp. z o.o.;Siedlce, ul. B.Prusa 6;Remont, zakup budynku siłowni oraz zakup sprzętu sportowego;129500
+321;mazowieckie;siedlecki;Gmina;Kotuń;Kotuń, ul. Szkolna 2;Przebudowa boiska piłkarskiego;100000
+322;mazowieckie;sierpecki;Gmina Miasto;Sierpc;Sierpc, ul. M. Konopnickiej;Budowa skateparku;100000
+323;mazowieckie;sokołowski;Powiat;Sokołowski;Sokołów Podlaski, ul. Sadowa 11 i M.Curie-Skłodoweskiej 24;Remont sali gimnastycznej w I LO oraz sali gimnastycznej i korekcyjnej w ZS nr 1;131600
+324;mazowieckie;sokołowski;Miasto;Sokołów Podlaski;Sokołów Podlaski, ul. Lipowa 50;Przebudowa stadionu miejskiego;900000
+325;mazowieckie;szydłowiecki;Gmina;Szydłowiec;"Szydłowiec, os. Wschód, ul. Mickiewicza; Majdów";Budowa skoczni do skoku w dal przy PG nr 2, placu zabaw, siłowni zewnętrznej oraz siłowni zewnętrznej przy ZS;100000
+326;mazowieckie;warszawski zachodni;Gmina;Błonie;Błonie, ul. Poniatowskiego 19;Budowa sali gimnastycznej;998000
+327;mazowieckie;warszawski zachodni;Gmina;Łomianki;Łomianki, ul. Rolnicza 435;Budowa sali gimnastycznej oraz boiska piłkarskiego i wielofunkcyjnego;492700
+328;mazowieckie;wołomiński;Gmina;Jadów;Jadów, ul. 11 Listopada 15;Przebudowa boiska piłkarskiego;1353500
+329;mazowieckie;wołomiński;Miasto;Ząbki;Ząbki, ul. Kościelna 2;Przebudowa boiska na boisko piłkarskie;164600
+330;mazowieckie;wołomiński;Miasto;Ząbki;Ząbki, ul. Słowackiego;Budowa treningowego boiska piłkarskiego;800000
+331;mazowieckie;wyszkowski;Gmina;Długosiodło;Długosiodło, ul. Sportowa;Budowa boiska piłkarskiego;1300000
+332;mazowieckie;wyszkowski;Gmina;Rząśnik;Porządzie;Budowa sali gimnastycznej;650000
+333;mazowieckie;wyszkowski;Powiat;Wyszkowski;Wyszków, ul. I Armii Wojska Polskiego 82;Budowa kompleksu lekkoatletycznego ;175000
+334;mazowieckie;wyszkowski;Gmina;Wyszków;Wyszków, ul. Prosta;Budowa placu zabaw;110600
+335;mazowieckie;żyrardowski;Miasto;Żyrardów;Żyrardów, ul. Narutowicza 39a;Przebudowa boiska wielofukcyjnego;157500
+336;opolskie;brzeski;Gmina;Brzeg;Brzeg, ul. Robotnicza 22;Przebudowa   boisk wielofunkcyjnych  o nawierzchni poliuretanowej i z trawy naturalnej, budowa skoczni do skoku w dal oraz siłowni plenerowej;257600
+337;opolskie;brzeski;Gmina;Brzeg;Brzeg, ul. Oławska 2a;Remont hali sportowej - IV etap;144000
+338;opolskie;brzeski;Gmina;Brzeg;Brzeg, ul. Bohaterów Monte Cassino 14;Budowa obiektu lekkoatletycznego;400000
+339;opolskie;brzeski;Gmina;Lubsza;Błota, Czepielowice, Michałowice, Piastowice, Raciszów, Rogalice, Roszkowice, Szydłowice, Śmiechowice, Pisarzowice, Lubsza;Budowa siłowni plenerowych oraz boiska wielofunkcyjnego i siłowni plenerowej w Lubszy;100000
+340;opolskie;głubczycki;Gmina Miejska;Głubczyce;Głubczyce, ul. Dworcowa 2;Budowa 2 boisk wielofunkcyjnych;108000
+341;opolskie;głubczycki;Powiat;Głubczycki;Głubczyce, ul. Kochanowskiego 15;Budowa boiska wielofunkcyjnego i siłowni plenerowej;100000
+342;opolskie;kędzierzyńsko-kozielski;Gmina;Bierawa;Solarnia, ul. Raciborska 42;Budowa boiska wielofunkcyjnego;87400
+343;opolskie;kędzierzyńsko-kozielski;Miasto;Kędzierzyn-Koźle;Kędzierzyn-Koźle, ul. Szymanowskiego 19, ul. Kanonierów;Budowa boiska wielofunkcyjnego, boiska piłkarskiego, bieżni okrężnej, prosteji skoczni do skoku w dal przy ZSM nr 2 oraz budddowa placu zabaw z częścią sportową przy PSP nr 20;506800
+344;opolskie;kędzierzyńsko-kozielski;Gmina;Kędzierzyn-Koźle;Kędzierzyn-Koźle, ul. Partyzantów 30, ul. Piastowska 30;Modernizacja sali gimnastycznej  oraz bieżni okrężnej o długości 300 m;374900
+345;opolskie;krapkowicki;Gmina;Krapkowice;Krapkowice, ul. Kwiatowa 7;Budowa boiska wielofunkcyjnego - etap I;74300
+346;opolskie;m. Opole;Miasto;Opole ;Opole, ul. Piotrkowska, Koszalińska, Sieradzka;Budowa boiska wielofunkcyjnego, siłowni plenerowej, torów do gry w boule oraz modernizacja terenu sportowo-rekreacyjnego;385900
+347;opolskie;m. Opole;Miasto;Opole  ;Opole, ul. Hallera oraz ul. Tatrzańska, ul. Katowicka i ul. Dekabrystów;Budowa boiska wielofunkcyjnego, bieżni prostej o dł. 100 m i siłowni zewnętrznej oraz budowa siłowni zewnętrznych z placami zabaw;288000
+348;opolskie;nyski;Gmina;Nysa;Nysa;Budowa boiska wielofunkcyjnego;220000
+349;opolskie;nyski;Gmina;Pakosławice;Pakosławice 2a;Budowa boiska wielofunkcyjnego;150000
+350;opolskie;nyski;Szkoła/Uczelnia;Państwowa Wyższa Szkoła Zawodowa w Nysie;Nysa, ul. Głuchołaska 12;Modernizacja hali sportowej;302100
+351;opolskie;oleski;Gmina;Rudniki;Rudniki, ul. Wieluńska 15;Budowa kompleksu lekkoatletycznego;166300
+352;opolskie;opolski;Gmina;Łubniany;"Luboszyce, ul. Szkolna; Kępa, ul. Zawadzka; Kolanowice, ul. Sportowa; Masów, ul. Opolska; Dąbrówka Łubniańska, ul. Oleska; Brynica, ul. Ks. Klimasa";Budowa boiska wielofunkcyjnego przy PSP w Luboszycach oraz budowa siłowni zewnętrznych w 5 miejscowościach;133000
+353;opolskie;opolski;Gmina;Murów;Zagwiździe, ul. Lipowa 68;Budowa sali gimnastycznej z łącznikiem;2399600
+354;opolskie;opolski;Gmina;Ozimek;Ozimek, ul. Daniecka 14;Budowa boiska wielofunkcyjnego;100000
+355;opolskie;opolski;Gmina;Turawa;Turawa, ul. Opolska 47;Budowa hali sportowej;4000000
+356;opolskie;prudnicki;Gmina;Biała;Biała, ul. Tysiąclecia 16;Budowa boisk: piłkarskiego, wielofunkcyjnego i kortu tenisowego wraz z budynkiem zaplecza;642000
+357;opolskie;prudnicki;Gmina;Głogówek;Głogówek, ul. Damrota, ul. Powstańców;Budowa budynku zaplecza szatniowego prz boisku piłkarskim oraz montaż kontenerów zaplecza prz boisku piłkarskim;115800
+358;podkarpackie;brzozowski;Gmina;Brzozów;Zmiennica;Budowa sali gimnastycznej;1079800
+359;podkarpackie;brzozowski;Gmina;Brzozów;Brzozów, ul. Legionistów 3;Budowa kompleksu lekkoatletycznego;783200
+360;podkarpackie;brzozowski;Gmina;Dydnia;Dydnia;Przebudowa boiska do piłki ręcznej i wielofunkcyjnego;190000
+361;podkarpackie;brzozowski;Gmina;Haczów;Jabłonica Polska, Malinówka;Budowa 2 boisk wielofunkcyjnych;340100
+362;podkarpackie;brzozowski;Gmina;Haczów;Trześniów;Remont budynku zaplecza szatniowego przy obiekcie stadionu LKS;114200
+363;podkarpackie;brzozowski;Gmina;Nozdrzec;Wara 247;Przebudowa mini boiska piłkarskiego;119600
+364;podkarpackie;dębicki;Gmina;Dębica;Stasiówka, Paszczyna, Brzeźnica;Przebudowa 3 boisk wielofunkcyjnych;226900
+365;podkarpackie;dębicki;Gmina Miasta;Dębica;Dębica, ul. Piłsudskiego 19;Remont zaplecza sanitarno-szatniowego zespołu basenów ;115100
+366;podkarpackie;jarosławski;Gmina;Jarosław;Pełkinie;Budowa boiska wielofunkcyjnego;120000
+367;podkarpackie;jarosławski;Gmina Miejska;Jarosław;"Jarosław, Ogródek Jordanowski w Parku  im. Bohaterów Monte Cassino;  os. Pułaskiego; os. Prośbów; os. Kopernika; os. Słoneczne, os. Sterańczaka; ul. Starosanowa";Budowa, modernizacja parku wspinaczkowego oraz budowa lub modernizacja 3 boisk wielofunkcyjnych, boiska piłkarskiego, 6 placów zabaw i 2 siłowni zewnętrznych;600000
+368;podkarpackie;jarosławski;Gmina;Pawłosiów;Cieszacin Wielki, Wierzbna, Kidałowice;Modernizacja boisk piłkarskich;150000
+369;podkarpackie;jarosławski;Gmina;Pruchnik;Kramarzówka 98;Budowa sali gimnastycznej;400000
+370;podkarpackie;jasielski;Miasto;Jasło;Jasło, osiedla: Gamrat, Sobniów, ul. Śniadeckich, ul. Sikorskiego - MOSiR;Przebudowa, remont, wyposażenie boiska piłkarskiego, remont Orlika (wymiana sztucznej nawierzchni 2 boisk), wyposażenie obiektów w sprzęt sportowy;656100
+371;podkarpackie;jasielski;Gmina;Skołyszyn;Skołyszyn, Harklowa;Budowa 2 boisk wielofunkcyjnych przyszkolnych;432500
+372;podkarpackie;jasielski;Gmina;Tarnowiec;Łubno Szlacheckie, Tarnowiec, Umieszcz;Budowa 3 boisk wielofunkcyjnych;496000
+373;podkarpackie;kolbuszowski;Gmina;Cmolas;Hadykówka, Ostrowy Baranowskie;Budowa 2 placów zabaw oraz siłowni zewnętrznej;100000
+374;podkarpackie;kolbuszowski;Gmina;Dzikowiec;Wilcza Wola, ul. Rzeszowska 1;Budowa boiska piłkarskiego ;418900
+375;podkarpackie;kolbuszowski;Gmina;Majdan Królewski;"Wola Rusinowska; Brzostowa Góra; Komorów";"Budowa; 2 x przebudowa boiska wielofunkcyjnego i przebudowa 2 boisk wielofunkcyjnych";379000
+376;podkarpackie;krośnieński;Gmina;Korczyna;Korczyna, ul. Aleksandra Fredry 2;Budowa kompleksu lekkoatletycznego;713000
+377;podkarpackie;krośnieński;Gmina;Krościenko Wyżne;Krościenko Wyżne, ul. Szkolna;Przebudowa boiska wielofunkcyjnego;205980
+378;podkarpackie;krośnieński;Inny;Zgromadzenie Świętego Michała Archanioła;Miejsce Piastowe;Budowa infrastruktury sportowej (boisko piłkarskie, boisko wielofunkcyjne, rzutnia do pchnięcia kulą, bieżnia prosta 2-torowa do biegów na 100 m, skocznia do skoku w dal, remont zaplecza sportowego);300000
+379;podkarpackie;leski;Gmina;Lesko;Lesko, ul. Bieszczadzka;Budowa budynku zaplecza socjalno-sanitarnego i magazynowego przy kompleksie sportowym;400000
+380;podkarpackie;leski;Gmina;Lesko;Bezmiechowa Górna;Przebudowa boiska piłkarskiego;189700
+381;podkarpackie;leżajski;Gmina;Leżajsk;Biedaczów 72;Budowa sali gimnastycznej;639300
+382;podkarpackie;lubaczowski;Gmina Miejska;Lubaczów;Lubaczów, ul. Kościuszki;Budowa krytej pływalni;3177200
+383;podkarpackie;lubaczowski;Gmina;Lubaczów;Krowica Hołodowska 32;Modernizacja, budowa, remont boiska piłkarskiego, budowa boiska piłkarskiewgo treningowego i boiska wielofunkcyjnego wraz z placem zabaw i remont budynku zaplecza sanitarno-szatniowego;600000
+384;podkarpackie;lubaczowski;Gmina;Lubaczów;Młodów, Lisie Jamy;Budowa, przebudowa zaplecza socjalno-sanitarnego i przebudowa boiska piłkarskiego;300000
+385;podkarpackie;lubaczowski;Gmina;Narol;Narol, ul. Graniczna;Budowa kompleksu lekkoatletycznego;251300
+386;podkarpackie;lubaczowski;Gmina;Stary Dzików;Stary Dzików, ul. Kosocińskiego;Przebudowa boiska piłkarskiego oraz bieżni prostej;572300
+387;podkarpackie;łańcucki;Gmina;Czarna;Czarna, Dąbrówki, Krzemienica, Medynia Głogowska, Medynia Łańcucka, Zalesie;Budowa 5 wielofunkcyjnych boisk przyszkolnych, bieżni okrężnej 3 torowej o długości 200 m wraz ze skocznią w dal oraz remont 2 sal gimnastycznych ;1250000
+388;podkarpackie;łańcucki;Gmina;Czarna;Dąbrówski;Przebudowa boiska piłkarskiego;256400
+389;podkarpackie;m. Krosno;Gmina Miasto;Krosno;Krosno, ul. Składowa, ul. Bursaki, ul. Paderewskiego;Budowa, przebudowa zaplecza socjalno-sanitarnego przy boisku oraz przebudowa 2 boisk wielofunkcyjnych;470700
+390;podkarpackie;m. Krosno;Gmina Miasto;Krosno;Krosno, ul. S. Kisielewskiego 18;Budowa hali sportowej;1566000
+391;podkarpackie;m. Krosno;Gmina Miasto;Krosno;Krosno, ul. Rzeszowska 10;Budowa boiska wielofunkcyjnego;274500
+392;podkarpackie;m. Krosno;Gmina Miasto;Krosno;Krosno, ul. Rzeszowska 10;Budowa kompleksu lekkoatletycznego oraz boiska piłkarskiego;600000
+393;podkarpackie;m. Przemyśl;Gmina Miejska;Przemyśl;Przemyśl, ul. Bohaterów Getta 20-22, Kopernika 14, Focha, Wybrzeże Jana Pawła II;Budowa 2 boisk wielofunkcyjnych oraz 2 parków sportowych;394000
+394;podkarpackie;m. Tarnobrzeg;Gmina;Tarnobrzeg;Tarnobrzeg, ul. Św. Barbary 1B;Budowa boiska wielofunkcyjnego;115100
+395;podkarpackie;m. Tarnobrzeg;Gmina;Tarnobrzeg;Tarnobrzeg, Al.. Niepodlelości 2;Remont hali sportowo-widowiskowej MOSiR;529400
+396;podkarpackie;mielecki;Gmina Miejska;Mielec;Mielec, ul. Solskiego i ul. Baczyńskiego;Budowa 2 boisk (wielofunkcyjnego i piłkarskiego), placu zabaw, skateparku i parkouru;900000
+397;podkarpackie;mielecki;Gmina;Mielec;Rędzianowice;Budowa sali gimnastycznej;240900
+398;podkarpackie;mielecki;Gmina Miejska;Mielec;Mielec, ul.Solskiego;Modernizacja, budowa 2 boisk do piłki nożnej i budowa siłowni plenerowej;2000000
+399;podkarpackie;mielecki;Gmina Miejska;Mielec;Mielec, ul. Żeromskiego 30;Budowa hali sportowej;1216500
+400;podkarpackie;mielecki;Gmina;Tuszów Narodowy;Tuszów Narodowy;Budowa kortu tenisowego, boiska do gry w badmintona oraz siłowni plenerowej;141900
+401;podkarpackie;mielecki;Gmina;Tuszów Narodowy;Malinie;Budowa kompleksu lekkoatletycznego;400000
+402;podkarpackie;niżański;Gmina;Jeżowe;Jeżowe ;Budowa 2 boisk wielofunkcyjnych;450000
+403;podkarpackie;niżański;Gmina i Miasto;Nisko;Nisko, ul. Chopina, ul. Sopocka, ul. H. Dąbrowskiego;Budowa 2 boisk wielofunkcyjnych, 2 siłowni zewnętrznych, budowa 3 placów zabaw, bieżni 4-torowej prostej, skoczni do skoku w dal, rzutni do pchnięcia kulą;400000
+404;podkarpackie;niżański;Gmina i Miasto;Nisko;Zarzecze, ul. Mickiewicza;Budowa sali gimnastycznej;1000000
+405;podkarpackie;niżański;Powiat;Niżański;Rudnik nad Sanem, ul. Marsz. J. Piłsudskiego;Budowa boiska wielofunkcyjnego, placu zabaw i siłowni zewnętrznej;367400
+406;podkarpackie;niżański;Powiat;Niżański;Rudnik nad Sanem, ul. Piłsudskiego 9;Remont sali gimnastycznej z zapleczem;138300
+407;podkarpackie;niżański;Gmina i Miasto;Rudnik nad Sanem;Przędzel, ul. Mickiewicza 149;Budowa sali gimnastycznej;600000
+408;podkarpackie;niżański;Gmina i Miasto;Rudnik nad Sanem;Rudnik nad Sanem, ul. Kończycka 3;Budowa boiska wielofunkcyjnego, placu zabaw, siłowni zewnętrznej;325800
+409;podkarpackie;niżański;Gmina i Miasto;Ulanów;Bieliny, Wólka Tanewska;Przebudowa dachu Sali gimnastycznej przy SP oraz modernizacja 3 boisk piłkarskich o nawierzchni z naturlanej trawy (2 boiska w Bielinach i 1 w Wólce Wanewskiej);340000
+410;podkarpackie;przemyski;Gmina;Fredropol;Huwniki;Budowa sali gimnastycznej;600000
+411;podkarpackie;przemyski;Stowarzyszenie;"Przemyski Klub Sportu i Rekreacji Niewidomych i Słabowidzących ""Podkarpacie""";Przemyśl, ul. Mickiewicza 20;Remont strzelnicy sportowej;23950
+412;podkarpackie;przeworski;Gmina;Sieniawa;Leżachów, Czerwona Wola, Rudka, Wylewa;Budowa 4 boisk wielofunkcyjnych;852200
+413;podkarpackie;przeworski;Gmina;Sieniawa;Sieniawa, ul. Rynek 4;Budowa hali sportowej;2461600
+414;podkarpackie;ropczycko-sędziszowski;Gmina;Wielopole Skrzyńskie;Broniszów, Nawsie;Budowa 2 boisk wielofunkcyjnych wraz z siłowniami terenowymi ;774800
+415;podkarpackie;rzeszowski;Gmina;Głogów Małopolski;"Głogów Młp., ul. Fabryczna 10; Budy Głogowskie";Modernizacja boiska piłkarskiego i zaplecza socjalno-sanitarnego, modernizacja boiska;200000
+416;podkarpackie;rzeszowski;Gmina Miasto;Rzeszów;Rzeszów, ul. Hetmańska 69;Modernizacja hali sportowej;1470400
+417;podkarpackie;rzeszowski;Gmina Miasto;Rzeszów;Rzeszów, ul. Kamińskiego 12, ul. Staroniwska 55, ul. Beskidzka 5, ul. Hetmańska 120;Budowa 5 boisk wielofunkcyjnych, mini boiska do piłki nożnej, bieżni 2-torowej prostej do biegów na 60 m, 2 skoczni do skoków w dal i rzutni do pchnięcia kulą;509900
+418;podkarpackie;sanocki;Gmina;Besko;Besko, ul. Kolejowa 101;Remont pomieszczeń w budynku zaplecza stadionu z przeznaczeniem na cele sportowe;150000
+419;podkarpackie;sanocki;Gmina Miasta;Sanok;Sanok, ul. Żwirki i Wigury 10;Remont budynku sacjalno-administracyjnego na stadionie;389900
+420;podkarpackie;stalowowolski;Gmina;Bojanów;Gwoździec;Budowa boiska wielofunkcyjnego;300000
+421;podkarpackie;stalowowolski;Gmina;Bojanów;Stany;Budowa bieżni okrężnej 4-torowej o dł. 400 m, bieżni prostej 6-torowej o dł. 130 m, rzutni do pchnięcia kulą, skoczni do skoku w dal, skoczni do skoku wzwyż, boiska piłkarskiego o wym. 60 x 100 m, budynku zaplecza;1660000
+422;podkarpackie;stalowowolski;Gmina;Stalowa Wola;Stalowa Wola, ul. Mickiewicza 5;Budowa boiska wielofunkcyjnego;117000
+423;podkarpackie;stalowowolski;Gmina;Stalowa Wola;Stalowa Wola - Rozwadów, ul. Kusocińskiego;Budowa zaplecza socjalno-sanitarnego i siłowni plenerowej;250649
+424;podkarpackie;stalowowolski;Gmina;Stalowa Wola;Stalowa Wola, ul. Hutnicza 15;Budowa boisk piłkarskich: płyty głównej, dwóch boisk treningowych i boiska treningowego z przykrycie namiotowym oraz budowa zaplecza wraz z krytą trybuną w ramach Podkarpackiego Centrum Piłki Nożnej;15000000
+425;podkarpackie;stalowowolski;Powiat;Stalowowolski;Stalowa Wola, ul. Staszica 5;Przebudowa boiska piłkarskiego;500400
+426;podkarpackie;stalowowolski;Powiat;Stalowowolski;Stalowa Wola, ul. 1-ego Sierpnia 26;Przebudowa i remont sali gimnastycznej;578900
+427;podkarpackie;strzyżowski;Gmina;Czudec;Czudec, Nowa Wieś;Budowa boiska wielofunkcyjnego oraz boiska wielofunkcyjnego, boiska do siatkówki plażowej i siłowni zewnętrznej;300000
+428;podkarpackie;strzyżowski;Gmina;Frysztak;Lubla;Budowa boiska wielofunkcyjnego;204100
+429;podkarpackie;strzyżowski;Gmina;Niebylec;Gwoźnica Górna;Budowa sali gimnastycznej;1500000
+430;podkarpackie;tarnobrzeski;Gmina;Baranów Sandomierski;Wola Baranowska, ul. Szkolna 4;Budowa sali gimnastycznej;900000
+431;podlaskie;augustowski;Gmina Miasto;Augustów;Augustów, ul. Tartaczna 21;Budowa boiska wielofunkcyjnego, bieżni 4-torowej 60 m, skoczni do skoku w dal i siłowni zewnętrznej;420000
+432;podlaskie;augustowski;Gmina;Bargłów Kościelny;Bargłów Kościelny;Budowa 3 boisk (piłkarskiego, wielofunkcyjnego i do siatkówki), bieżni 3-torowej okreżnej, bieżni 3-torowej prostej, rzutni do pchnięcia kulą, skoczni do skoku w dal i siłowni plenerowej;570000
+433;podlaskie;białostocki;Gmina;Dobrzyniewo Duże;Dobrzyniewo Duże, ul. Szkolna 14;Budowa kompleksu lekkoatletycznego;250990
+434;podlaskie;białostocki;Gmina;Wasilków;Wasilków, ul. Polna 1/4;Budowa boiska wielofunkcyjnego;105000
+435;podlaskie;bielski;Miasto;Bielsk Podlaski;Bielsk Podlaski, ul. Wysockiego 6;Budowa 2 boisk wielofunkcyjnych;135000
+436;podlaskie;bielski;Gmina;Orla;Koszele;Budowa boiska piłkarskiego, rzutni do pchnięcia kulą, skoczni do skoku w dal;148900
+437;podlaskie;grajewski;Gmina;Rajgród;Rajgród;Budowa placu zabw i siłowni plenerowej;108000
+438;podlaskie;hajnowski;Gmina;Narewka;Narewka, ul. Nowa 4;Przebudowa 3 boisk wielofunkcyjnych;120000
+439;podlaskie;kolneński;Powiat;Kolneński;Kolno, ul. Wojska Polskiego 34;Budowa Sali gimnastycznej;1079700
+440;podlaskie;kolneński;Gmina;Turośl;Łacha, Leman, Ksebki, Ptaki;Budowa 3 boisk piłkarskich i boiska wielofunkcyjnego;591200
+441;podlaskie;łomżyński;Gmina;Łomża;Stara Łomża przy Szosie, Zawady, Stara Łomża nad Rzeką, Grzymały Szczepankowskie, Boguszyce, Czaplice, Puchały;Budowa 2 boisk wielofunkcyjnych oraz 5 siłowni plenerowych;170000
+442;podlaskie;łomżyński;Miasto;Łomża;Łomża, ul. Mickiewicza 6;Budowa hali sportowej;2435000
+443;podlaskie;łomżyński;Gmina;Piątnica;Piątnica Poduchowna, ul. Szkolna 29;Budowa boiska piłkarskiego;542900
+444;podlaskie;m. Białystok;Miasto;Białystok;Białystok. ul. Broniewskiego 1;Budowa boiska wielofunkcyjnego, bieżni prostej, skoczni do skoku w dal;150000
+445;podlaskie;m. Białystok;Miasto;Białystok;Białystok, ul. Rumiankowa;Budowa 2 boisk wielofunkcyjnych;180000
+446;podlaskie;m. Białystok;Miasto;Białystok;Białystok, Wierzbowa 7;Budowa boiska wielofunkcyjnego i bieżni prostej 3-torowej;195000
+447;podlaskie;m. Białystok;Miasto;Białystok;Białystok, ul. Grottgera 9;Budowa boiska wielofunkcyjnego;108000
+448;podlaskie;m. Białystok;Miasto;Białystok;Białystok, Świętojańska 1;Budowa boiska wielofunkcyjnego;138400
+449;podlaskie;m. Białystok;Miasto;Białystok;Białystok ul. Antoniuk Fabryczny 1;Budowa boiska piłkarskiego;251000
+450;podlaskie;m. Białystok;Miasto;Białystok;Białystok ul. Piastowska 5;Budowa 2 boisk wielofunkcyjnych;270100
+451;podlaskie;m. Białystok;Miasto;Białystok;Białystok, ul. Miodowa 5;Budowa boiska wielofunkcyjnego i kortu tenisowego;210000
+452;podlaskie;m. Białystok;Miasto;Białystok;Białystok, ul. Stroma 1a;Rozbudowa i przebudowa krytej pływalni;3000000
+453;podlaskie;m. Białystok;Miasto;Białystok;Białystok, ul. 11-go Listopada 28;Budowa kompleksu lekkoatletycznego;1500000
+454;podlaskie;m. Białystok;Klub sportowy;"Uczniowski Klub Sportowy ""Kaliber""";Białystok, ul. Grunwaldzka 18;Remont strzelnicy sportowej;314000
+455;podlaskie;m. Łomża;Miasto;Łomża;Łomża, ul. Stacha Konwy 11;Budowa boiska wielofunkcyjnego i skoczni do skoku wzwyż;229700
+456;podlaskie;m. Suwałki;Miasto;Suwałki;Suwałki, ul. Zastawie;Budowa 2 kortów tenisowych;180000
+457;podlaskie;m. Suwałki;Miasto;Suwałki;Suwałki, ul. Ks. Hamerszmita 11, ul. Szpitalna 66;Budowa (łącznie) 2 bieżni prostych, 2 skoczni do skoku w dal, 1 rzutni do pchnięcia kulą oraz placu zabaw;150000
+458;podlaskie;m. Suwałki;Miasto;Suwałki;Suwałki, ul. Wojska Polskiego;Budowa boiska wielofunkcyjnego do sportów plażowych;95500
+459;podlaskie;m. Suwałki;Miasto;Suwałki;Suwałki, ul. Antoniewicza 5;Modernizacja, budowa boiska do piłki nożnej, boiska wielofunkcyjnego, bieżni prostej 4-torowej do biegów 100 m, skoczni do skoku w dal i budowa zaplecza socjalno-szatniowego;1400538
+460;podlaskie;siemiatycki;Powiat;Siemiatycki;Czartajew, ul. Długa 130;Budowa boiska wielofunkcyjnego;240000
+461;podlaskie;suwalski;Gmina;Suwałki;Stary Folwark;Budowa sali gimnastycznej;1000000
+462;podlaskie;wysokomazowiecki;Gmina;Nowe Piekuty;"Nowe Piekuty, ul. Główna 3; Jabłoń Kościelna , ul. Mazowiecka 1";Przebudowa, rozbudowa i remont  sal gimnastycznych;650000
+463;podlaskie;zambrowski;Gmina Miasto;Zambrów;Zambrów, ul. Wyszyńskiego 8;Modernizacja, budowa Stadionu Miejskiego - etap IV - budowa budynku zaplecza socjalno-sanitarnego;550000
+464;pomorskie;bytowski;Gmina;Bytów;Pomysk Wielki, Bytów, Udorpie, Rzepnica;Budowa siłowni plenerowych i placów zabaw;100000
+465;pomorskie;bytowski;Gmina;Bytów;Bytów, ul. Sikorskiego 37;Przebudowa boiska wielofunkcyjnego i skoczni do skoku w dal;221100
+466;pomorskie;bytowski;Gmina;Bytów;Świątkowo;Budowa kompleksu lekkoatletycznego i boiska piłkarskiego;900000
+467;pomorskie;bytowski;Gmina;Czarna Dąbrówka;Jasień;Budowa boiska wielofunkcyjnego, siłowni zewnętrznej i skoczni do skoku w dal;200000
+468;pomorskie;bytowski;Gmina;Tuchomie;Kramarzyny, ul. Pomorska;Budowa boiska piłkarskiego;278500
+469;pomorskie;chojnicki;Gmina;Chojnice;Pawłowo, ul. Tucholska;Modernizacja, budowa boiska piłkarskiego oraz budowa boiska wielofunkcyjnego;583500
+470;pomorskie;chojnicki;Gmina;Czersk;Czersk, ul. Dworcowa 8;Budowa zadaszenia rolkowiska;100000
+471;pomorskie;gdański;Inny;Akademicki Związek Sportowy Zarząd Główny;Górki Zachodnie k/Gdańska ul. Stogi 20;Przykrycie, budowa halą pneumatyczną na konstrukcji drewnianej boiska wielofunkcyjnego i budowa budynku zaplecza;1050000
+472;pomorskie;gdański;AWF;AWFiS im. J. Śniadeckiego w Gdańsku;Gdańsk, ul. Kazimierza Górskiego 1;Modernizacja boiska piłkarskiego;824433,26
+473;pomorskie;gdański;Gmina;Cedry Wielkie;Cedry Wielkie, ul. Osadników Wojskowych 21;Budowa pełnowymiarowej hali sportowej;2500000
+474;pomorskie;gdański;Gmina;Kolbudy;Pręgowo, ul. Bukowskiego 3;Budowa Sali gimnastycznej;583500
+475;pomorskie;gdański;Gmina Miejska;Pruszcz Gdański;Pruszcz Gdański, ul. Kasprowicza 16;Przebudowa, boiska wielofunkcyjnego i bieżni prostej;285600
+476;pomorskie;gdański;Gmina;Trąbki Wielkie;Kłodawa, ul. Szkolna 2;Budowa sali gimnastycznej i boiska wielofunkcyjnego;1000000
+477;pomorskie;kartuski;Gmina;Chmielno;Chmielno, ul. Grzędzickiego 28;Przebudowa boiska wielofunkcyjnego;227000
+478;pomorskie;kartuski;Gmina;Chmielno;Borzestowo 182;Budowa sali gimnastycznej wraz z łącznikiem;640100
+479;pomorskie;kartuski;Inny;"Fundacja Pomocy Dzieciom Niepełnosprawnym ""Uśmiech Dziecka""";Szklana 1;Budowa krytej pływalni;500000
+480;pomorskie;kartuski;Gmina;Kartuzy;Staniszewo, Prokowo, Łapalice;Modernizacja 3 boisk wielofunkcyjnych;207300
+481;pomorskie;kartuski;Gmina;Kartuzy;Kartuzy, ul. 3 Maja 34;Budowa, przebudowa kompleksu lekkoatletycznego i przebudowa boiska piłkarskiego;1500000
+482;pomorskie;kartuski;Gmina;Sierakowice;Tuchlino 16B;Budowa sali gimnastycznej;826200
+483;pomorskie;kartuski;Gmina;Somonino;Goręczyno, ul. Szkolna 7;Budowa (2) boisk wielofunkcyjnych oraz placu zabaw;140000
+484;pomorskie;kartuski;Gmina;Somonino;Goręczyno;Przebudowa boiska piłkarskiego;301800
+485;pomorskie;kartuski;Stowarzyszenie;"Stowarzyszenie Rehabilitacyjno-Sportowe ""Szansa-Start Gdańsk""";Ostrów Mausz 12, 83-320 Sulęczyno;Remont boiska wielofunkcyjnego;91800
+486;pomorskie;kartuski;Gmina;Żukowo;"Żukowo, ul. Gdańska 66; Pępowo; Przyjaźń, ul. Szkolna 2";Modernizacja 3 boisk wielofunkcyjnych;500300
+487;pomorskie;kościerski;Gmina;Kościerzyna;Wielki Podleś, Wąglikowice, Skorzewo, Nowy Klincz, Łubiana;Budowa 5 boisk wielofunkcyjnych;730000
+488;pomorskie;kwidzyński;Miasto i Gmina;Prabuty;Prabuty, ul. Władysława Jagiełły 34;Przebudowa budynku zaplecza stadionu miejskiego;360700
+489;pomorskie;lęborski;Gmina;Cewice;Cewice, ul. W. Witosa;Modernizacja boiska piłkarskiego, bieżni prostej i rzutni do pchnięcia kulą;361400
+490;pomorskie;lęborski;Gmina Miasto;Lębork;Lębork, ul. P. Skargi 52, Al. Wolności 31;Budowa boiska wielofunkcyjnego, kortu tenisowego, bieżni okrężnej 4-torowej przy Gimnazjum nr 2 oraz boiska wielofunkcyjnego przy ZS nr 3;350000
+491;pomorskie;lęborski;Powiat;Lęborski;Lębork, ul. Marcinkowskiego 1;Budowa kompleksu lekkoatletycznego, 2 boisk wielofunkcyjnych i boiska piłkarskiego;1000000
+492;pomorskie;m. Gdynia;Miasto;Gdynia;Gdynia, ul. Olimpijska;Remont dachu Hali Gier;318200
+493;pomorskie;m. Gdynia;Miasto;Gdynia;Gdynia, ul. Jowisza 60;Przebudowa bieżni okrężnej 200 m 3-torowej i urządzeń lekkoatletycznych;443400
+494;pomorskie;malborski;Miasto;Malbork;Malbork, ul. Toruńska 60;Budowa boiska piłkarskiego;541400
+495;pomorskie;malborski;Miasto;Malbork;Malbork, ul. Hadyny 18;Budowa sali gimnastycznej z zapleczem socjalnym wraz z łącznikiem i blokiem dydaktycznym;1949800
+496;pomorskie;malborski;Powiat;Malborski;Malbork, ul. Reymonta 24;Budowa sali gimnastycznej;317200
+497;pomorskie;pucki;COS;COS OPO we Władysławowie;Władysławowo, ul. Żeromskiego 52;"Przebudowa systemu wentylacji w budynku internatu sportowego ""Albatros""";1207000
+498;pomorskie;pucki;COS;COS OPO we Władysławowie;Władysławowo, ul. Żeromskiego 52;"Przebudowa budynku internatu sportowego ""Albatros""";3214000
+499;pomorskie;pucki;COS;COS OPO we Władysławowie;Władysławowo, ul. Żeromskiego 52;Zakup klatki wyczynowej do rzutu młotem z elektrycznie opuszczaną siatką;55000
+500;pomorskie;pucki;Gmina;Krokowa;Krokowa, ul. Szkolna 6;Przebudowa bieżni okrężnej 4-torowej 200 m, bieżni prostej 4-torowej 100 m, boiska piłkarskiego i budowa urządzeń lekkoatletycznych oraz zaplecza sanitarno-szatniowego;660600
+501;pomorskie;pucki;Gmina Miasta;Puck;Puck, ul. Nowy Świat 12;Modernizacja boiska wielofunkcyjnego;250000
+502;pomorskie;pucki;Gmina;Puck;Leśniewo, Mieroszyno, Rekowo Górne;Budowa 3 boisk wielofunkcyjnych;200000
+503;pomorskie;słupski;Gmina;Kępice;Osowo;Remont boiska wielofunkcyjnego;170800
+504;pomorskie;słupski;Gmina;Kępice;Korzybie;Modernizacja boiska wielofunkcyjnego;192900
+505;pomorskie;słupski;Gmina;Potęgowo;Łupawa;Budowa boiska piłkarskiego, boiska wielofunkcyjnego, bieżni okrężnej 4-torowej wraz z urzadzeniami do lekkiej atletyki;238900
+506;pomorskie;słupski;Stowarzyszenie;Stowarzyszenie MY DLA WAS;Przytocko;Budowa boiska wielofunkcyjnego ;110000
+507;pomorskie;słupski;Stowarzyszenie;Stowarzyszenie MY DLA WAS;Przytocko 17;Budowa sali gimnastycznej;949400
+508;pomorskie;starogardzki;Gmina;Lubichowo;Lubichowo;Przebudowa boiska piłkarskiego, boiska wielofunkcyjnego, bieżni okrężnej 200 m 4-torowej, bieżni prostej, skoczni do skoku w dal i rzutni do pchnięcia kulą;684400
+509;pomorskie;starogardzki;Gmina;Skarszewy;Skarszewy;Budowa hali sportowej;2000000
+510;pomorskie;sztumski;Gmina;Dzierzgoń;Dzierzgoń, ul. Zawadzkiego;Budowa bieżni prostej 4-torowej, rzutni do pchnięcia kulą i skoczni do skoku w dal;102900
+511;pomorskie;tczewski;Gmina;Pelplin;Pelplin, ul. Sambora 5;Rozbudowa hali sportowej;1732800
+512;pomorskie;tczewski;Gmina;Pelplin;Pelplin, ul. Czarnieckiego 8;Budowa kompleksu lekkoatletycznego;1462800
+513;pomorskie;tczewski;Gmina Miejska;Tczew;Tczew, ul. Armi Krajowej 70;Budowa sali gimnastycznej;1000000
+514;pomorskie;wejherowski;Gmina;Luzino;Luzino, ul. Szkolna;Budowa sali gimnastycznej;2000000
+515;pomorskie;wejherowski;Gmina;Luzino;Luzino, ul. Mickiewicza;Modernizacja 2 boisk piłkarskich;100300
+516;pomorskie;wejherowski;Województwo;Pomorskie;Wejherowo, ul. Sobieskiego 279;Budowa Sali gimnastycznej z zapleczem;2000000
+517;pomorskie;wejherowski;Gmina Miasto;Reda;Reda, ul. Łąkowa 59;Przebudowa kompleksu lekkoatletycznego;1230000
+518;pomorskie;wejherowski;Gmina;Szemud;"Bojanowo, ul. Wybickiego 38; Koleczkowo, ul. Wejherowska 24";Przebudowa, budowa boiska piłkarskiego i budowa bieżni prostej, skoczni do skoku w dal i rzutni kulą oraz budowa boiska wielofunkcyjnego;1244600
+519;śląskie;będziński;Gmina;Bobrowniki;Rogoźnik, ul. Krupna 22;Budowa boiska wielofunkcyjnego, bieżni lekkoatletycznej prostej i placu zabaw;295000
+520;śląskie;będziński;Gmina;Czeladź;Czeladź, ul. Mickiewicza;Budowa 2 kortów tenisowych, ścianki do tenisa, treningowego boiska piłkarskiego oraz boiska do piłki plażowej;114840
+521;śląskie;będziński;Gmina;Czeladź;Czeladź, ul. Szkolna 6;Budowa zadaszonego boiska wielogunkcyjnego wraz z łącznikiem;254000
+522;śląskie;będziński;Gmina;Wojkowice;Wojkowice, ul. Żrałków 1;Remont sali gimnastycznej;126200
+523;śląskie;będziński;Gmina;Wojkowice;Wojkowice, ul. Jana III Sobieskiego 29;Budowa boiska piłkarskiego, boiska wielofunkcyjnego i placu zabaw;288000
+524;śląskie;bielski;COS;COS OPO w Szczyrku;Szczyrk, ul. Plażowa 8;Przebudowa stacji transformatorowej wraz z rozdzielnikami SN oraz instalacji zaśnieżania tras narciarskich - I etap;512000
+525;śląskie;bielski;COS;COS OPO w Szczyrku;Szczyrk, ul. Myśliwska 45;Przebudowa kolei linowej krzesełkowej na trasie Szczyrk - Hala Jaworzyna;26293000
+526;śląskie;bielski;Gmina;Jaworze;Jaworze, ul. Wapienicka;Budowa hali sportowej;3150000
+527;śląskie;bielski;Inny;Rekord Sportowa spółka akcyjna;Bielsko-Biała, ul. Startowa 13;Modernizacja boiska piłkarskiego;198000
+528;śląskie;bielski;Gmina;Wilkowice;Bystra, ul. Klimczoka 68;Modernizacja, budowa boiska wielofunkcyjnego, budowa skoczni do skoku w dal oraz siłowni i placu zabaw;75000
+529;śląskie;bielski;Gmina;Wilkowice;Wilkowice, ul. Szkolna 8a;Przebudowa, budowa boiska piłkarskiego na boisko wielofunkcyjne wraz z budową bieżni okrężnej, bieżni prostej i infrastruktury lekkoatletycznej;1002900
+530;śląskie;bieruńsko-lędziński;Gmina;Bieruń;Bieruń, Węglowa 11;Modernizacja krytej pływalni;562000
+531;śląskie;bieruńsko-lędziński;Miasto;Imielin;Imielin, ul. Dąbrowskiej;Budowa sali gimnastycznej;1988300
+532;śląskie;bytomski;Inny;Bytomski Sport sp. z o.o.;Bytom, ul. Olimpijska 2;Modernizacja boiska treningowego klubu Polonia Bytom;1596100
+533;śląskie;cieszyński;Miasto;Ustroń;"Ustroń, ul. Hutnicza; ul. Partyzantów";Modernizacja 2 placów zabaw;241000
+534;śląskie;cieszyński;Gmina;Wisła;Wisła, ul. Biała Wisełka 6;Budowa boiska wielofunkcyjnego, boiska piłkarskiego, bieżni okrężnej 2-torowej i skoczni do skoku w dal;126000
+535;śląskie;częstochowski;Powiat;Częstochowski;Bogumiłek, ul. Biała Wielka 208 A;Budowa sali gimnastycznej z zapleczem;806100
+536;śląskie;częstochowski;Gmina;Olsztyn;Olsztyn, ul. Kuhna 18;Budowa, remont boiska wielofunkcyjnego bieżni okrężnej 2 -torowej o długoścoi 155 m oraz remont budynku zaplecza sportowego;129000
+537;śląskie;częstochowski;Gmina;Rędziny;Kościelec, ul. Wolności 93;Przebudowa budynku socjalnego przy boisku piłkarskim;95700
+538;śląskie;częstochowski;Gmina;Rędziny;Rędziny, ul. Szkolna 7;Rozbudowa zaplecza sali gimnastycznej;197700
+539;śląskie;gliwicki;Gmina;Pilchowice;"Żernica, ul. Górnicza; Stanica, ul.Sportowa";Przebudowa 2 boisk piłkarskich w Żernicy i 2 boisk piłkarskich w Stanicy;1501600
+540;śląskie;gliwicki;Gmina;Sośnicowice;Sośnicowice, ul. Gliwicka 21;Budowa sali gimnastycznej;762100
+541;śląskie;kłobucki;Gmina Miejska;Kłobuck;Kłobuck, ul. Baczyńskiego 2;Budowa boiska wielofunkcyjnego i bieżni prostej;248500
+542;śląskie;kłobucki;Gmina Miejska;Kłobuck;Kłobuck, ul. Szkolna 1;Przebudowa boiska wielofunkcyjnego;92200
+543;śląskie;kłobucki;Gmina;Krzepice;Krzepice, ul. Mickiewicza 13/17;Budowa boiska wielofunkcyjnego z bieżnią prostą;132600
+544;śląskie;lubliniecki;Gmina;Lubliniec;Lubliniec, ul. 74 G.P.P.;Budowa boiska piłkarskiego;698000
+545;śląskie;m. Bielsko-Biała;Miasto;Bielsko-Biała;Bielsko-Biała, ul. Zapłocie Duże 1;Budowa boiska wielofunkcyjnego i skoczni do skoku w dal i trójskoku;161000
+546;śląskie;m. Bielsko-Biała;Miasto;Bielsko-Biała;Bielsko-Biała, ul. Ks. Brzóski;Modernizacja boiska wielofunkcyjnego;118000
+547;śląskie;m. Bielsko-Biała;Miasto;Bielsko-Biała;Bielsko-Biała, ul. Komorowicka 27;Budowa boiska wielofunkcyjnego oraz skoczni do skoku w dal;128600
+548;śląskie;m. Bytom;Gmina;Bytom;Bytom, ul. Dzierżonia;Przebudowa boiska piłkarskiego;1930700
+549;śląskie;m. Chorzów;Miasto;Chorzów;Chorzów, ul. Okrężna;Budowa boiska wielofunkcyjnego, placu zabaw i siłowni plenerowej;831000
+550;śląskie;m. Chorzów;Miasto;Chorzów;Chorzów, ul. Dąbrowskiego 113;Modernizacja podłogi hali sportowej;172700
+551;śląskie;m. Chorzów;Inny;Stadion Śląski Sp. z o.o.;Chorzów, ul. Katowicka 10;Budowa stadionu l.a. - kat. I;10000000
+552;śląskie;m. Częstochowa;Miasto;Częstochowa;Częstochowa, ul. Baczyńskiego 2a;Budowa boiska wielofunkcyjnego;98100
+553;śląskie;m. Częstochowa;Miasto;Częstochowa;Częstochowa, ul. Warszawska 142;Budowa boiska wielofunkcyjnego;97900
+554;śląskie;m. Dąbrowa Górnicza;Gmina;Dąbrowa Górnicza;Dąbrowa Górnicza, ul. Morcinka 4;Modernizacja krytej pływalni;940000
+555;śląskie;m. Gliwice;Miasto;Gliwice;Gliwice, ul. Wrzosowa 14;Modernizacja boisk: wielofunkcyjnego, do piłki siatkowej, do koszykówki oraz bieżni prostej 60-metrowej i skoczni do skoku w dal;339800
+556;śląskie;m. Jastrzębie-Zdrój;Miasto;Jastrzębie-Zdrój;Jastrzębie-Zdrój, ul. Moniuszki;Budowa boiska piłkarskiego;155000
+557;śląskie;m. Jaworzno;Miasto;Jaworzno;Jaworzno;Remont boiska wielofunkcyjnego przy SP nr 5 i boiska wielofunkcyjnego przy SP nr 18;72100
+558;śląskie;m. Jaworzno;Gmina Miasta;Jaworzno;Jaworzno, ul. Kasztanowa 33;Budowa sali gimanstycznej i boiska wielofunkcyjnego;644000
+559;śląskie;m. Mysłowice;Gmina Miasto;Mysłowice;Mysłowice, ul. Wielka Skotnica 84a;Budowa 2 boisk wielofunkcyjnych oraz boiska do piłki siatkowej, plażowej;116700
+560;śląskie;m. Piekary Śląskie;Gmina;Piekary Śląskie;Piekary Śląskie, ul. Olimpijska 3;Budowa boiska wielofunkcyjnego oraz dwóch kortów tenisowych;392000
+561;śląskie;m. Piekary Śląskie;Miasto;Piekary Śląskie;Piekary Śląskie, ul. Generała Ziętka 60;Remont zaplecza sanitarno-szatniowego i siłowni hali sportowej;146000
+562;śląskie;m. Ruda Śląska;Miasto;Ruda Śląska;Ruda Śląska, Główna 40;Budowa sali gimnastycznej wraz z zapleczem;1094000
+563;śląskie;m. Ruda Śląska;Miasto;Ruda Śląska;Ruda Śląska, ul. Bytomska 15, ul. Norwida 10, ul. Gwarecka 2, ul. Energetyków 15;Budowa czterech torów rowerowych, w tym 3 typu pumtrack;166000
+564;śląskie;m. Ruda Śląska;Miasto;Ruda Śląska;Ruda Śląska, ul. Jasna/Basenowa;Budowa boisk: do piłki siatkowej, do koszykówki, do piłki nożnej;199300
+565;śląskie;m. Sosnowiec;Gmina Miejska;Sosnowiec;Sosonowiec, Bohaterów Monte Cassino 46;Budowa krytej pływalni;3100000
+566;śląskie;m. Sosnowiec;Gmina Miasto;Sosnowiec;Sosnowiec, ul. Przyjaciół Żołnierza 1;Budowa 2 boisk (wielofunkcyjnego i do siatkówki);230000
+567;śląskie;m. Świętochłowice;Gmina;Świętochłowice;Świętochłowice, ul. B. Chrobrego 4;Budowa boiska wielofunkcyjnego i boiska piłkarskiego;136000
+568;śląskie;m. Tychy;Miasto;Tychy;Tychy, al. Bielska 100;Budowa boiska wielofunkcyjnego;185600
+569;śląskie;m. Tychy;Miasto;Tychy;Tychy, ul. Edukacji;Budowa stadionu lekkoatletycznego - kat. IIIA;6000000
+570;śląskie;m. Zabrze;Miasto;Zabrze;Zabrze, ul. Czołgistów 1;Budowa sali gimnastycznej z zapleczem socjalnym i łącznikiem;423000
+571;śląskie;m. Żory;Gmina Miejska;Żory;Żory, os. Sikorskiego 52;Budowa hali sportowej;545000
+572;śląskie;m. Żory;Gmina Miejska;Żory;Żory, os. Ks. Władysława, ul. Rybnicka 5;Budowa 2 boisk wielofunkcyjnych;195000
+573;śląskie;mikołowski;Gmina Miejska;Łaziska Górne;Łaziska Górne;Budowa siłowni zewnętrznej, placu do street workout i 2 placów zabaw;255800
+574;śląskie;mikołowski;Miasto;Orzesze;"Orzesze, ul. Uczniowska 1; ul. Wiosny Ludów";Budowa boiska wielofunkcyjnego z bieżnią prostą i skocznią do skoku w dal przy Gimnajum nr 3 oraz budowa placu zabaw;235000
+575;śląskie;pszczyński;Gmina;Kobiór;Kobiór, ul. Tuwima 33;Budowa sali gimnastycznej;2172000
+576;śląskie;raciborski;Gmina;Krzyżanowice;Bieńkowice, ul. Szkolna 1;Przebudowa boiska wielofunkcyjnego, kortu tenisowego i skoczni do skoku w dal;209400
+577;śląskie;raciborski;Gmina;Nędza;Nędza, ul. Sportowa 10;Modernizacja, budowa, doposażenie infrastruktury boiska piłkarskiego, budowa siłowni zewnętrznej i doposażenie siłowni w budynku zaplecza sportowego;100000
+578;śląskie;raciborski;Miasto;Racibórz;Racibórz, ul. Srebrna 12;Modernizacja, dobudowa zaplecza sanitarno-szatniowo-magazynowego wraz z dobudową 2 modułów zaplecza sanitarno-szatniowego boiska piłkarskiego;132000
+579;śląskie;raciborski;Miasto;Racibórz;Racibórz, ul. Zamkowa 4;Modernizacja stadionu lekkoatletycznego;5000000
+580;śląskie;rybnicki;Gmina i Miasto;Czerwionka-Leszczyny;Czerwionka-Leszczyny, ul. Ks. Pojdy 77c;Budowa boiska wielofunkcyjnego;125700
+581;śląskie;rybnicki;Gmina;Gaszowice;Czernica, ul. Wolności;Budowa boiska wielofunkcyjnego;147200
+582;śląskie;tarnogórski;Klub sportowy;Ludowy Zespół Jeździecki DRAMA Zbrosławice;Zbrosławice, ul. Wolności 28;Modernizacja placu do jazdy konnej na obiekcie jeździeckim ;200000
+583;śląskie;tarnogórski;Gmina;Ożarowice;Tąpkowice, ul. Kopernika 2;Przebudowa boiska wielofunkcyjnego;309000
+584;śląskie;tarnogórski;Gmina;Świerklaniec;Świerklaniec, ul. Wolności;Budowa boiska sportowego wielofunkcyjnego;157000
+585;śląskie;wodzisławski;Gmina;Gorzyce;Czyżowice, ul. Rogowska;Budowa bieżni prostej 4-torowej;103100
+586;śląskie;zawierciański;Gmina;Zawiercie;Zawiercie, ul. Niedziałkowskiego 21;Budowa boiska do piłki ręcznej, boiska wielofunkcyjnego, biezni prostej, skoczni do skoku w dal i siłowni zewnętrznej;341000
+587;śląskie;żywiecki;Gmina;Łękawica;Łękawica, ul.Sportowa 5, ul. Żywiecka 82;Remont, budowa boiska wielofunkcyjnego oraz budowa zaplecza sanitarno-szatniowego;328300
+588;świętokrzyskie;buski;Powiat;Buski;Busko-Zdrój, ul. Mickiewicza 13;Przebudowa, budowa 2 boisk(wielofunkcyjnego i do piłki ręcznej), budowa 4-torowej bieżni prostej o dł. 100 m i skoczni w dal, budowa zewnętrznej siłowni plenerowej;293600
+589;świętokrzyskie;jędrzejowski;Gmina;Wodzisław;Wodzisław, ul. Szkolna 4;Budowa boiska wielofunkcyjnego;246300
+590;świętokrzyskie;kielecki;Gmina;Daleszyce;"Słopiec; Szczecno";Budowa boiska wielofunkcyjnego w Szczecnie i boiska piłkarskiego w Słopcu;165600
+591;świętokrzyskie;kielecki;Gmina;Masłów;Masłów Pierwszy;Budowa boiska wielofunkcyjnego;192300
+592;świętokrzyskie;kielecki;Gmina;Mniów;Grzymałków, ul. Świętokrzyska 22;Budowa boiska wielofunkcyjnego, bieżni prostej 3-torowej, skoczni do skoku w dal;296200
+593;świętokrzyskie;kielecki;Gmina;Mniów;Zaborowice;Budowa boiska piłkarskiego, boiska wielofunkcyjnego, bieżni okrężnej 3-torowej, bieżni prostej 3-torowej, skoczni do skoku w dal ;528600
+594;świętokrzyskie;kielecki;Gmina;Morawica;Brzeziny, Wola Morawicka;Budowa boiska wielofunkcyjnego, skoczni do skoku w dal i rzutni do pchnięcia kulą w Brzezinach i boiska wielofunkcyjnego w Woli Morawickiej;200000
+595;świętokrzyskie;kielecki;Gmina;Strawczyn;Strawczyn, Żeromskiego 12;Nadbudowa łącznika i zaplecza sali gimnastycznej;710600
+596;świętokrzyskie;konecki;Gmina;Końskie;Końskie, ul. Południowa, ul. Browarna;Budowa skateparku, placu zabaw oraz 2 boisk do siatkówki plażowej;142500
+597;świętokrzyskie;konecki;Gmina;Radoszyce;Radoszyce, ul. Krakowska 103, ul. Ogrodowa 21;Przebudowa, remont bieżni okrężnej 4-torowej o długości 400 m i boiska piłkarskiego treningowego na obiekcie sportowo-rekreacyjnym oraz remont podłogi w hali sportowej;676100
+598;świętokrzyskie;konecki;Gmina;Smyków;Miedzierza 79;Remont sali gimnastycznej;241680
+599;świętokrzyskie;ostrowiecki;Gmina;Ostrowiec Świętokrzyski;Ostrowiec Świętokrzyski, ul. Mickiewicza 32;"Modernizacja i wyposażenie krytej pływalni olimpijskiej ""Rawszczyzna""";209900
+600;świętokrzyskie;sandomierski;Gmina;Klimontów;Goźlice, Klimontów, Krobielice, Olbierzowice, Ossolin, Byszów;Budowa boiska wielofunkcyjnego, skoczni do skoku w dal i placu zabaw przy SP w Klimontowie, boiska do piłki nożnej przy SP w Goźlicach, siłowni zewnętrznej w miejscowości Krobielice, 3 placów zabaw w miejscowościach Olbierzowice, Ossolin i Byszów;238600
+601;świętokrzyskie;starachowicki;Gmina;Mirzec;Tychów Stary;Budowa sali gimnastycznej;800000
+602;świętokrzyskie;starachowicki;Gmina;Mirzec;Mirzec Stary;Remont hali sportowej;102000
+603;świętokrzyskie;starachowicki;Gmina;Pawłów;Pawłów;Budowa hali sportowej z łącznikiem;3500000
+604;świętokrzyskie;starachowicki;Gmina;Pawłów;Szerzawy;Budowa boiska piłkarskiego i boiska wielofunkcyjnego;645700
+605;świętokrzyskie;starachowicki;Gmina;Starachowice;Starachowice, ul. 1 Maja 11;Budowa 2 placów zabaw i 2 siłowni plenerowych;88000
+606;świętokrzyskie;starachowicki;Gmina;Starachowice;Starachowice, ul. Armii Krajowej, ul. Jana Pawła II;Budowa boiska wielofunkcyjnego, mini boiska piłkarskiego, 4-torowej bieżni prostej, skoczni do skoku w dal i rzutni do pchnięcia kula przy ul. Armii Krajowej i boiska wielofunkcyjnego przy ul. Jana Pawła II;834500
+607;świętokrzyskie;staszowski;Powiat;Staszowski;Staszów, ul. Szkolna 11;Modernizacja Sali gimnastycznej, boiska wielofunkcyjnego oraz urządzeń lekkoatletycznych;146900
+608;świętokrzyskie;staszowski;Gmina;Staszów;Staszów, ul. Koszarowa;Modernizacja boiska treningowego;887500
+609;świętokrzyskie;włoszczowski;Gmina;Krasocin;Oleszno, ul. Szkolna 34;Budowa boiska wielofunkcyjnego;136500
+610;świętokrzyskie;włoszczowski;Gmina;Krasocin;Krasocin, ul. Floriańska 1;Budowa boiska wielofunkcyjnego;117300
+611;świętokrzyskie;włoszczowski;Gmina;Włoszczowa;Włoszczowa;Budowa kompleksu sportowego (bieżnia okrężna 4-torowa o długości 250 m, bieżnia prosta 4-torowa o długości 120 m, 2 boiska wielofunkcyjne, skocznia do skoków w dal) oraz boiska wielofunkcyjnego i skoczni do skoków w dal;619706
+612;warmińsko-mazurskie;braniewski;Gmina Miasta;Braniewo;Braniewo, ul. Konarskiego;Remont Sali gimnastycznej;159000
+613;warmińsko-mazurskie;działdowski;Powiat;Działdowski;Działdowo, ul. Grunwaldzka 4;Budowa boiska wielofunkcyjnego;115000
+614;warmińsko-mazurskie;działdowski;Gmina;Płośnica;Rutkowice, Niechłonin, Płośnica;Budowa, rozbudowa boiska wielofunkcyjnego w Rutkowicach, rozbudowa boiska piłkarskiego przy SP w Niechłoninie oraz budowa boiska do siatkówki plażowej i siłowni zewnętrznej w Płośnicy;155000
+615;warmińsko-mazurskie;ełcki;Gmina Miasto;Ełk;Ełk, ul. Grodzieńska 1;Budowa trzech boisk wielofunkcyjnych;195000
+616;warmińsko-mazurskie;giżycki;COS;COS OPO w Giżycku;Giżycko, ul. Moniuszki 22;"Rozbiórka internatu sportowego ""Domont"", dwóch domków murowanych, magazynu oraz sauny terenowej";280000
+617;warmińsko-mazurskie;giżycki;COS;COS OPO w Giżycku;Giżycko, ul. Moniuszki 22;Zakup podłogi amortyzującej do sportów walki;78000
+618;warmińsko-mazurskie;giżycki;Gmina Miejska;Giżycko;Giżycko, ul. Wodociągowa 8;Modernizacja sali gimnastycznej;145000
+619;warmińsko-mazurskie;giżycki;Gmina;Giżycko;Wilkasy, ul. Olsztyńska;Budowa kompleksu lekkoatletycznego;337100
+620;warmińsko-mazurskie;giżycki;Gmina Miejska;Giżycko;Giżycko, ul. Moniuszki;Budowa stadionu lekkoatletycznego - kat. VA;2000000
+621;warmińsko-mazurskie;iławski;Gmina Miejska;Iława;Iława, ul. Niepodległości 11b;Modernizacja hali sportowej;1150000
+622;warmińsko-mazurskie;iławski;Gmina;Susz;Babięty Wielkie 31;Budowa boiska wielofunkcyjnego;129100
+623;warmińsko-mazurskie;kętrzyński;Gmina Miejska;Kętrzyn;Kętrzyn, ul. Chopina 20;Budowa kompleksu lekkoatletycznego w ramach przebudowy stadionu miejskiego;1500000
+624;warmińsko-mazurskie;kętrzyński;Powiat;Kętrzyński;Kętrzyn, ul. Poznańska 21;Modernizacja Sali gimnastycznej;220000
+625;warmińsko-mazurskie;m. Elbląg;Gmina Miasto;Elbląg;Elbląg, ul. Robotnicza 68;Modernizacja krytej pływalni;2731000
+626;warmińsko-mazurskie;m. Elbląg;Gmina Miasto;Elbląg;Elbląg, ul. Agrykola 8;Modernizacja budynku zaplecza;1493700
+627;warmińsko-mazurskie;m. Olsztyn;Gmina;Olsztyn;Olsztyn, ul. J. Piłsudskiego 56, ul. M. Grzegorzewskiej 6, ul. Zamenhofa, ul. Wyspiańskiego, ul. Świtycz-Widackiej, ul. Barcza, ul. Kołobrzeskiej 20, ul. Dworcowa;Budowa, modernizacja siłowni zewnętrznych i modernizacja placów zabaw;160000
+628;warmińsko-mazurskie;m. Olsztyn;Szkoła/Uczelnia;Uniwersytet Warmińsko-Mazurski w Olsztynie;Olsztyn, Kortowo, ul. Oczapowskiego;Modernizacja stadionu lekkoatletycznego;3500000
+629;warmińsko-mazurskie;mrągowski;Gmina Miasto;Mrągowo;Mrągowo,, ul. Mrongowiusza 1;Modernizacja boiska piłkarskiego - dolnej płyty;735600
+630;warmińsko-mazurskie;mrągowski;Gmina;Sorkwity;Zyndaki;Budowa sali gimnastycznej;700000
+631;warmińsko-mazurskie;nidzicki;Gmina;Janowo;Janowo, ul. Chorzelska 21;Budowa boiska wielofunkcyjnego;144200
+632;warmińsko-mazurskie;nidzicki;Gmina;Kozłowo;Kozłowo (2 lokalizacje), Sątop, Cebulki, Niedanowo, Pielgrzymowo, Lipowo, Szkudaj, Gołębiewo;Modernizacja placów zabaw;100000
+633;warmińsko-mazurskie;nidzicki;Powiat;Nidzicki;Nidzica, ul. Jagiełły 1;Modernizacja sali gimnastycznej i boisk trawiastych - etap II;352500
+634;warmińsko-mazurskie;nowomiejski;Gmina;Kurzętnik;Kurzętnik, ul. Betoniarska 8a;Modernizacja budynku siłowni i pomieszczeń do sportów walki;250300
+635;warmińsko-mazurskie;olsztyński;Powiat;Olsztyński;Biskupiec, ul. Chrobrego 13;Budowa hali sportowej z łącznikiem;1600000
+636;warmińsko-mazurskie;olsztyński;Gmina;Purda;Purda;Budowa boiska wielofunkcyjnego - etap I;116800
+637;warmińsko-mazurskie;piski;Powiat;Piski;Łupki 15;Budowa sali gimnastycznej z zapleczem;1002600
+638;warmińsko-mazurskie;szczycieński;Gmina;Szczytno;Wawrochy, Czarkowy Grąd, Rudka, Leśny Dwór, Marksewo, Lemany, Stare Kiejkuty, Olszyny;Budowa obiektów sportowych - boisko wielofunkcyjne, place zabaw, siłownie plenerowe;110000
+639;wielkopolskie;chodzieski;Gmina;Margonin;Adolfowo;Budowa boiska piłkarskiego;94600
+640;wielkopolskie;czarnkowsko-trzcianecki;Gmina;Połajewo;Boruszyn 25;Budowa boiska wielofunkcyjnego;279700
+641;wielkopolskie;czarnkowsko-trzcianecki;Gmina;Wieleń;Wieleń, ul. Jaryńska;Budowa hali sportowej;1482000
+642;wielkopolskie;gostyński;Powiat;Gostyński;Grabonóg 63;Przebudowa boiska wielofunkcyjnego;195000
+643;wielkopolskie;grodzki;Gmina;Kamieniec;"Kamieniec, ul. Słoneczna 2; Parzęczewo 25";Budowa boiska do piłki ręcznej ;129700
+644;wielkopolskie;jarociński;Gmina;Jarocin;"Jarocin, ul. Sportowa; Witaszyce, ul. Kolejowa";Modernizacja 2 boisk piłkarskich w Jarocinie oraz boiska piłkarskiego w Witaszycach;1637700
+645;wielkopolskie;jarociński;Powiat;Jarociński;Tarce 19;Przebudowa boiska wielofunkcyjnego;231500
+646;wielkopolskie;jarociński;Gmina;Kotlin;Wola Książęca;Budowa boiska wielofunkcyjnego i 4-torowej bieżni prostej o długości  60 m;128700
+647;wielkopolskie;kaliski;Gmina;Szczytniki;Marchwacz 27, Radliczyce 72;Budowa 2 sal gimnastycznych;2800000
+648;wielkopolskie;kępiński;Powiat;Kępiński;Słupia pod Kępnem, ul. Katowicka;Remont pływalni;977400
+649;wielkopolskie;kępiński;Gmina;Kępno;Kępno, ul. Walki Młodych 9;Remont i termomodernizacja  hali sportowej;567200
+650;wielkopolskie;kępiński;Gmina;Trzcinica;Trzcinica, ul. Szkolna 2a, Laski ul. Lipowa 34;Budowa bieżni 2 - torowej prostej 60 m wraz ze skocznią do skoku w dal ;111200
+651;wielkopolskie;kolski;Gmina Miejska;Koło;Koło, ul. Sportowa 12, ul. Szkolna 2b;Modernizacja, remont boiska piłkarskiego na stadionie miejskim oraz remont hali sportowej przy ul. Szkolnej;161900
+652;wielkopolskie;kolski;Gmina;Przedecz;Przedecz, ul. Szkolna;Nadbudowa i rozbudowa zaplecza sanitarno-szatniowego istniejącej Sali gimnastycznej o salę do ćwiczeń gimnastycznych i korekcyjnych;233200
+653;wielkopolskie;koniński;Gmina;Golina;Golina, ul. Wolności 20/ Konopnickiej;Budowa hali sportowej;1800000
+654;wielkopolskie;koniński;Gmina;Golina;Golina, ul. Konopnickiej, ul. Wolności;Budowa boiska wielofunkcyjnego oraz bieżni prostej 60 m;144000
+655;wielkopolskie;koniński;Gmina;Kramsk;Kramsk, ul Konińska 18;Budowa boiska wielofunkcyjnego;148700
+656;wielkopolskie;kościański;Gmina Miejska;Kościan;Kościań, Al.. T. Kościuszki 3;Przebudowa boiska wielofunkcyjnego;298100
+657;wielkopolskie;m. Kalisz;Miasto;Kalisz;Kalisz, ul. Graniczna, ul. Łódzka, ul. Tuwima;Przebudowa, modernizacja 2 boisk piłkarskich przy ul. Granicznej i ul. Tuwima oraz modernizacja kortów tenisowych przy ul. Łódzkiej;2000000
+658;wielkopolskie;m. Kalisz;Miasto;Kalisz;Kalisz, ul. Podmiejska (os. XXV-lecia), ul. Żwirki i Wigury;Budowa boiska do siatkówki plażowej przy SP nr 18 i boiska wielofunkcyjnego przy SP nr 9;150300
+659;wielkopolskie;m. Konin;Miasto;Konin;Konin, ul. Kolska 2;Budowa sali gimnastycznej;1320000
+660;wielkopolskie;m. Leszno;Miasto;Leszno;Leszno, ul.Strzelecka 9;Rozbudowa i przebudowa budynku kręgielni;1266100
+661;wielkopolskie;m. Poznań;Miasto;Poznań;Poznań, ul. Warmińska 1;Modernizacja wież oświetleniowych;193800
+662;wielkopolskie;międzychodzki;Powiat;Międzychodzki;Międzychód, ul. Sikorskiego 27;Przebudowa boiska wielofunkcyjnego;250800
+663;wielkopolskie;międzychodzki;Gmina;Sieraków;Sieraków, ul. Poznańska 25;Budowa hali sportowej;2000000
+664;wielkopolskie;nowotomyski;Gmina;Opalenica;Opalenica, ul. Poznańska 37;Modernizacja sali gimnastycznej;147600
+665;wielkopolskie;obornicki;Gmina;Oborniki;"Oborniki, ul. Czarnkowska; Kiszewo 51";Budowa, przebudowa boiska wielofunkcyjnego i bieżni prostej w Obornikach oraz przebudowa boiska wielofunkcyjnego w Kiszewie;268100
+666;wielkopolskie;obornicki;Gmina;Oborniki;Oborniki, ul. Objezierska;Przebudowa, modernizacja kompleksu lekkoatletycznego oraz modernizacja boiska piłkarskiego;949300
+667;wielkopolskie;ostrowski;Gmina i Miasto;Nowe Skalmierzyce;Nowe Skalmierzyce, ul. Mostowa, ul. Kolejowa, ul. Polna;Budowa boiska piłkarskiego na stadionie miejskim;763700
+668;wielkopolskie;ostrowski;Powiat;Ostrowski;Ostrów Wielkopolski, ul. Poznańska 43;Budowa 2 boisk wielofunkcyjnych;143200
+669;wielkopolskie;ostrowski;Miasto i Gmina;Ostrów Wielkopolski;Ostrów Wielkopolski, ul. Asnyka 26;Budowa hali sportowej;1800000
+670;wielkopolskie;ostrowski;Gmina Miasto;Ostrów Wielkopolski;Ostrów Wielkopolski, ul. Grabowska 1, ul. Bema 30, ul. Stafana Batorego 2;Przebudowa, budowa  boiska wielofunkcyjnego, budowa boiska wielofunkcyjnego oraz budowa boiska wielofunkcyjnego i 3-torowej bieżni prostej o dł. 60 m;313500
+671;wielkopolskie;ostrzeszowski;Miasto i Gmina;Ostrzeszów;Ostrzeszów, ul. Piastowska 3;Przebudowa, budowa boiska piłkarskiego oraz budowa boiska wielofunkcyjnego, 2 boisk do siatkówki plażowej, 4-torowej bieżni okrężnej o długości 333 m z odcinkiem prostym i urządzen lekkoatletycznych;1000000
+672;wielkopolskie;ostrzeszowski;Inny;Zakład Energetyki Cieplnej sp. Z o.o.;Ostrzeszów, ul. Tęczowa;Przebudowa boiska piłkarskiego;901400
+673;wielkopolskie;pilski;Gmina;Piła;Piła, ul. Grottgera 4;Rozbudowa, budowa Centrum Sportowo-Rekreacyjnego Aquapark poprzez budowę krytej pływalni;2919496
+674;wielkopolskie;pleszewski;Gmina;Dobrzyca;Lutynia;Budowa boiska wielofunkcyjnego;101100
+675;wielkopolskie;pleszewski;Miasto i Gmina;Pleszew;Pleszew, ul. Szkolna;Modernizacja sali gimnastycznej;290700
+676;wielkopolskie;pleszewski;Inny;Sport Pleszew sp. z o.o.;Pleszew, Al. Wojska Polskiego 17;Modernizacja boiska piłkarskiego;989500
+677;wielkopolskie;poznański;Gmina;Czerwonak;Owińska, ul. Poprzeczna;Budowa hali sportowej;1400000
+678;wielkopolskie;poznański;Inny;Gminny Ośrodek Kultury i Sportu;Kleszczewo;Budowa 4-torowej bieżni okrężnej o długości 400 m z odcinkiem prostym oraz skoczni do skoku w dal i trójskoku;167000
+679;wielkopolskie;poznański;Gmina;Komorniki;Plewiska, ul. Prof.. Wacława Strażewicza 1;Budowa sali gimnastycznej;1200000
+680;wielkopolskie;poznański;Gmina;Kostrzyn;Kostrzyn, ul. Powstańców Wielkopolskich 28A;Budowa 4-torowej bieżni okrężnej o dł. 200 m z odcinkiem prostym, skoczni do skoku w dal oraz skoczni do skoku wzwyż;161900
+681;wielkopolskie;poznański;Gmina;Mosina;Krosno, ul. Krasickiego 16;Budowa hali sportowej;2500000
+682;wielkopolskie;poznański;Miasto;Puszczykowo;Puszczykowo, ul. Podgórna;Budowa hali sportowej;2000000
+683;wielkopolskie;poznański;Gmina;Stęszew;Stęszew, ul. Poznańska 22A;Budowa hali sportowej;1695100
+684;wielkopolskie;poznański;Miasto;Swarzędz;Swarzędz, ul. Św. Marcina 1;"Modernizacja; budowa 4-torowej bieżni okrężnej o długości 400 m z odcinkiem prostym, treningowego boiska piłkarskiego oraz budowa zaplecza sanitarno-szatniowego, skoczni do skoku w dal, oświetlenia stadionu i systemu nawadniania boiska piłkarskiego na stadionie";1500000
+685;wielkopolskie;rawicki;Powiat;Rawicki;Rawicz, ul. Wały Jarosława Dąbrowskiego 29;Przebudowa, budowa boiska wielofunkcyjnego i skoczni do skoku w dal oraz budowa bieżni prostej i placu fitness;274500
+686;wielkopolskie;słupecki;Powiat;Słupecki;Słupca, ul. Powstańców Wielkopolskich 22;Remont sali gimnastycznej;114200
+687;wielkopolskie;szamotulski;Inny;Centrum Sportu Szamotuły sp. z o.o.;Szamotuły, ul. Sportowa 6;Przebudowa boiska piłkarskiego;1206600
+688;wielkopolskie;szamotulski;Stowarzyszenie;"Kultury Fizycznej ""Kolejorz""";Popowo;Modernizacja boiska piłkarskiego;1139900
+689;wielkopolskie;szamotulski;Powiat;Szamotulski;Szamotuły, ul. Szczuczyńska 3;Przebudowa bieżni prostej, skoczni do skoku w dal i trójskoku, skoczni do skoku wzwyż oraz rzutni do pchnięcia kulą;175200
+690;wielkopolskie;śremski;Powiat;Śremski;Śrem, ul. Staszica 3;Przebudowa kompleksu lekkoatletycznego oraz boiska wielofunkcyjnego;400000
+691;wielkopolskie;śremski;Inny;Śremski Sport Sp. z o.o.;Śrem, ul. S.Staszica 1 A;Przebudowa i remont pływalni miejskiej;3000000
+692;wielkopolskie;turecki;Gmina;Przykona;Rogów;Budowa boiska piłkarskiego;104900
+693;wielkopolskie;wągrowiecki;Miasto i Gmina;Gołańcz;Gołańcz;Rozbudowa i remont budynku zaplecza sanitarno-szatniowego;784000
+694;wielkopolskie;wągrowiecki;Gmina Miejska;Wągrowiec;Wągrowiec, ul. Kościuszki 59, ul. Krótka 4;Modernizacja 2 boisk wielofunkcyjnych;427000
+695;wielkopolskie;wągrowiecki;Gmina;Wągrowiec;Łekno, ul. Pocztowa 7;Budowa hali sportowej;2409400
+696;wielkopolskie;wolsztyński;Gmina;Przemęt;Mochy, ul. Szkolna 7;Przebudowa boiska wielofunkcyjnego, 4-torowej bieżni okrężnej o dł. 200 m z 6-torowym odcinkiem prostym o dł. 100 m ;395000
+697;wielkopolskie;wolsztyński;Gmina;Przemęt;Bucz, ul. Kasztanowa 8;Budowa boiska wielofunkcyjnego;250000
+698;wielkopolskie;wolsztyński;Gmina;Wolsztyn;Wolsztyn, ul. Konopnickiej 1;Budowa boiska wielofunkcyjnego i do siatkówki;143000
+699;wielkopolskie;wrzesiński;Gmina;Września;Wrześnie, ul. Kosynierów;Budowa Sali gimnastycznej;947600
+700;wielkopolskie;złotowski;Gmina i Miasto;Jastrowie;Jastrowie, al.. Wolności 1;Budowa boiska wielofunkcyjnego i 4-torowej bieżni prostej o długości  76 m;152500
+701;zachodniopomorskie;gryfiński;Powiat;Gryfiński;Chojna, ul. Podmurze 4;Modernizacja sali gimnastycznej;118100
+702;zachodniopomorskie;kołobrzeski;Powiat;Kołobrzeski;Kołobrzeg, ul. Śliwińskiego;Modernizacja stadionu lekkoatletycznego - kat. VA;2000000
+703;zachodniopomorskie;kołobrzeski;Gmina;Ustronie Morskie;Ustronie Morskie działki nr 388, 387/1, 390/1, 389/3;Budowa boiska piłkarskiego;733800
+704;zachodniopomorskie;m. Szczecin;Gmina Miasto;Szczecin;Szczecin, ul. Młodzieży Polskiej 9;Budowa sali gimnastycznej;1349900
+705;zachodniopomorskie;m. Szczecin;Gmina Miasto;Szczecin;Szczecin, ul. Litewska 20;Modernizacja kompleksu lekkoatletycznego;1500000
+706;zachodniopomorskie;m. Świnoujście;Gmina Miasto;Świnoujście;Świnoujście, ul. Białoruska;Modernizacja, budowa kompleksu sportowego poprzez: budowę budynku zaplecza, bieżni okrężnej 400-metrowej z bieżnią prostą o dł. 100m, skoczni do skoku w dal oraz siłowni plenerowej;2000000
+707;zachodniopomorskie;policki;Gmina;Kołbaskowo;Przecław;Remont bieżni okrężnej o dł. 333,33 m z bieżnią prostą o dł. 100 m, boiska do piłki nożnej, koszykówki, piłki ręcznej;1329500
+708;zachodniopomorskie;policki;Gmina;Police;Police, ul. Siedlecka 2b;Przebudowa hali sportowej;2000000
+709;zachodniopomorskie;sławieński;Gmina;Darłowo;Kopnica 24;Budowa sali gimnastycznej;721900
+710;zachodniopomorskie;sławieński;Gmina;Sławno;Żukowo, Żukowo 65;Budowa sali gimnastycznej;750000
+711;zachodniopomorskie;sławieński;Gmina;Sławno;Żukowo 65;Budowa sali gimnastycznej;750000
+712;zachodniopomorskie;stargardzki;Inny;Ośrodek Sportu i Rekreacji Stargard sp. z o. o.;Stargard, ul. Sportowa 1;Modernizacja kompleksu lekkoatletycznego;1038400
+713;zachodniopomorskie;szczecinecki;Gmina;Borne Sulinowo;Borne Sulinowo, ul. Sportowa;Przebudowa bieżni lekkoatletycznej okrężnej 4-torowej 400 m;742000
+714;zachodniopomorskie;szczecinecki;Miasto;Szczecinek;Szczecinek, ul. Kopernika;Budowa sali gimnastycznej;1500000
+715;zachodniopomorskie;wałecki;COS;COS OPO w Wałczu;Wałcz, Al. Zdobywców Wału Pomorskiego 99;Rozbudowa stołówki i modernizacja zaplecza kuchennego;1207800
+716;zachodniopomorskie;wałecki;COS;COS OPO w Wałczu;Wałcz, ul. Zdobywców Wału Pomorskiego 99;Zakup wyposażenia dla treningu wioślarskiego;90700
